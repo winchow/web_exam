@@ -1,0 +1,76 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+<!-- https://getbootstrap.com/docs/4.0/components/forms/ -->
+<!-- https://colorlib.com/wp/free-html5-contact-form-templates/ -->
+<div>
+  <form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <div class="content">
+      <div class="gr">
+    {{ form.as_p }}
+    <button type="submdit">Upload</button>
+    </div>
+
+<!--     <div>
+      <img class="show" src="{% static 'b.jpg' %} "  width="500">
+    </div> -->
+    </div>
+  </form>
+</div>
+<!-- <p class="aaa"><a href="{% url 'home' %}">Return to home</a></p> -->
+
+<style>
+.content{
+  margin-top: 10px;
+  width: 40%;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+body{
+    font-size: 15px;
+}
+.gr{
+  border: solid gray 1px;
+  padding: 50px;
+  vertical-align:middle;
+  overflow: hidden;
+  display:block;
+
+}
+label{
+  vertical-align:middle;
+  font-weight: bold;
+  color:gray;
+  overflow: hidden;
+  display: block;
+  width: 100px;
+
+}
+input , textarea{
+  vertical-align:middle;
+  color:gray;
+  margin-top :4px;
+  width: 90%;
+  border: none;
+  border-bottom: solid 0.5px;
+  padding: 5px;
+
+}
+button{
+  width: 100px;
+  color:white;
+  background: #990000;
+  vertical-align:middle;
+  float: right;
+}
+button:hover{
+  color: #990000;
+  background:white;
+  }
+</style>
+
+{% endblock %}

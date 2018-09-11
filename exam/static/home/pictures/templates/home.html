@@ -1,0 +1,133 @@
+{% extends 'base.html' %}
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+ <meta charset="utf-8" >
+</head>
+<body >
+{% block content %}
+<br><br>
+
+
+<div>
+  
+<h1>กรุณาใส่งานวิจัยที่ต้องการค้นหา</h1>
+<div class="divSearch">
+  <form method="GET" action="">
+    <input placeholder = "หมวดหมู่ /ชื่องานวิจัย/ ผู้วิจัย" name="q" autocomplete="off" value= {{ request.GET.q }}>
+    <!-- <input class="imgg" type="image" src="{% static 'img1.png' %}" alt="Submit Form" /> -->
+    <input class="search" type="Submit"  value="ค้นหา" /> 
+  </form>
+</div>
+</div>
+
+<br><br><br>
+<section>
+<table style="width:60%">
+  <tr>
+    <th></th>
+    <th>ชื่องานวิจัย</th> 
+    <th>ผู้แต่ง</th>
+    <th>เนื้อหาพอสังเขป</th>
+  </tr>
+  {% for p in object_list %}
+    <tr>
+      <td><img src = {{ p.image.url }} width="40px" height="40px"></td>
+      <td>{{ p.name }}</td>
+      <td>{{ p.author }}</td>
+      <td>{{ p.abstract }}</td>
+    </tr>
+  {% empty %}
+    <div class="jumbotron">
+      <h1>No data yet!</h1>  
+    </div>
+  {% endfor %}
+
+ </table>
+
+</section>
+
+</body>
+</html>
+<style >
+body{
+  margin:0;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+  text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #990000;
+    color: white;
+}
+h1{
+  text-align: center;
+  color: #990000;
+}
+input{
+/*  margin-left: 35%;*/
+  height: 40px;
+  width: 300px;
+
+}
+button{
+  margin-top: auto;
+  height: 45px;
+  width: 38px;
+  vertical-align:middle;
+}
+.first{
+  background: #990000;
+  height: 100px;
+}
+.divSearch{
+  display: inline;
+  text-align: center;
+  vertical-align:middle;
+}
+::placeholder { 
+    color: gray;
+    opacity: 1; 
+}
+.search{
+  width: 100px;
+  height: 46px;
+  vertical-align:middle;
+  color: white;
+  background: #990000;
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+
+/*.button123{
+  height: 70%;
+  width: 100px;
+}*/
+.click1{
+  color :white;
+  font-weight: bold;
+}
+.click1:hover{
+  color:#FFD700;
+}
+</style>
+{% endblock %}
+
+</body>
+</html>  

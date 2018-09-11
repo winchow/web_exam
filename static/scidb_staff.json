@@ -1,0 +1,3890 @@
+[
+    {
+        "id": 1,
+        "name": "น.ส. แสงหล้า  ชัยมงคล",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "1",
+        "ict_id": null
+    },
+    {
+        "id": 2,
+        "name": "นางบุปผา  ไกรสัย",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "1",
+        "ict_id": null
+    },
+    {
+        "id": 3,
+        "name": "น.ส. นิฉา  แก้วหาวงษ์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "1",
+        "ict_id": null
+    },
+    {
+        "id": 4,
+        "name": "นางณิชยาภรณ์  มีเดช",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 5,
+        "name": "น.ส. ขจี  จันทรขจร",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 6,
+        "name": "นายกมล  บุษบา",
+        "job_position": "รองศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 7,
+        "name": "นางเพ็ญแข  ฮิคคินบอททอม",
+        "job_position": "รองศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 8,
+        "name": "นางอัจฉรา ปาจีนบูรวรรณ์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 9,
+        "name": "น.ส. เบญจมาศ  ตุลยนิติกุล",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 10,
+        "name": "นางรวมพร  สิทธิมงคล",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 11,
+        "name": "น.ส. ธวิกานต์  ตรียะประเสริฐ",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 12,
+        "name": "นายอดุลย์  แป้นสุวรรณ",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 13,
+        "name": "นายวราฤทธิ์  พานิชกิจโกศลกุล",
+        "job_position": "รองศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 14,
+        "name": "น.ส. สุพัชระ  คงนวน",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 15,
+        "name": "น.ส. รัตนา  เลิศสุวรรณศรี",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 16,
+        "name": "นายปรัชญา  บุญประเสริฐ",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 17,
+        "name": "นางปุณชญา  พัฒนางกูร",
+        "job_position": "รองศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 18,
+        "name": "นางศิริจันทร์  เวสารัชศาต",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 19,
+        "name": "นายวิชัย  วิทยาเกียรติเลิศ",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 20,
+        "name": "นายสุรเมศวร์  ฮาชิม",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 21,
+        "name": "นายพีระศักดิ์  อินทรไพบูลย์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 22,
+        "name": "น.ส.นวลักษณ์  ทองจับ",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 23,
+        "name": "น.ส.วันหยก  อติเศรษฐพงศ์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 24,
+        "name": "น.ส.เอื้ออารี  บุญเพิ่ม",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 25,
+        "name": "น.ส. จรินทร์ทิพย์  เฮงคราวิทย์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 26,
+        "name": "นายวิชัยรัตน์  จันที",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 27,
+        "name": "น.ส.สุปราณี  ลิสวัสดิ์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 28,
+        "name": "น.ส.รมิดา  ศรีเหรา",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 29,
+        "name": "นายพัทธ์ชนก  ศรีสุรเดชชัย",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 30,
+        "name": "น.ส.มณฑิรา  ดวงสาพล",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 31,
+        "name": "นายรวินทร์  ยังน้อย",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 32,
+        "name": "น.ส.ฑัณธิดา  งามขำ",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 33,
+        "name": "น.ส.ภทรวรรณ แสงนวกิจ",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 34,
+        "name": "นายอรรถวุฒิ  วงศ์ประดิษฐ์",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 35,
+        "name": "นายวุฒิพล  สินธุนาวารัตน์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 36,
+        "name": "นายสายตุลา  ณ ระนอง",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 37,
+        "name": "นายธีระวัฒน์  สิมมาจันทร์",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 38,
+        "name": "นายกานต์ณัฐ ณ บางช้าง",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 39,
+        "name": "น.ส.สายฝน  จาตุรันตบุตร",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 40,
+        "name": "นายนันทพัทธ์ ตระกูลไตรพฤกษ์",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 41,
+        "name": "นายบวร  คูหิรัญ",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 42,
+        "name": "นายชัยณรงค์  เกษามูล",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 43,
+        "name": "น.ส.วรรณวรัตม์  อันล้ำเลิศ",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 44,
+        "name": "นางแสงดาว  วงศ์สาย",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 45,
+        "name": "นายวรเวทย์  ลีลาอภิรดี",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "3",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 46,
+        "name": "น.ส.อรุณวรรณ  สืบศรีวิชัย",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "3",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 47,
+        "name": "นายจุมพฏ  อินตระกูล",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "3",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 48,
+        "name": "Mr. Paolo  Bertozzimi",
+        "job_position": "ผู้เชี่ยวชาญชาวต่างประเทศ",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "4",
+        "ict_id": null
+    },
+    {
+        "id": 49,
+        "name": "น.ส.วนิดา  พฤทธิวิทยา",
+        "job_position": "อาจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "1",
+        "ict_id": null
+    },
+    {
+        "id": 50,
+        "name": "น.ส.สิริกันยา  นิลพานิช",
+        "job_position": "อาจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 51,
+        "name": "นายรัชต  พีชวณิชย์",
+        "job_position": "อาจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 52,
+        "name": "นางนุชชากร  งามเสาวรส",
+        "job_position": "อาจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 53,
+        "name": "น.ส.เยาวดี  เต็มธนาภัทร์",
+        "job_position": "รองศาสตราจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 54,
+        "name": "น.ส.รัชฎา  คงคะจันทร์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 55,
+        "name": "นายปกรณ์  เสริมสุข",
+        "job_position": "รองศาสตราจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 56,
+        "name": "น.ส.วิลาวรรณ  รักผกาวงศ์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 57,
+        "name": "นางเสาวลักษณ์  วรรธนาภา",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 58,
+        "name": "น.ส.มนวรรัตน์  ผ่องไพบูลย์",
+        "job_position": "อาจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 59,
+        "name": "นางวรวรรณ  ดีอัซ การ์บาโย",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 60,
+        "name": "นายณัฐธนนท์  หงส์วริทธิ์ธร",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 61,
+        "name": "น.ส.วิรัตน์  จารีวงศ์ไพบูลย์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 62,
+        "name": "นายเด่นดวง  ประดับสุวรรณ",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 63,
+        "name": "นายปกป้อง  ส่องเมือง",
+        "job_position": "อาจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 64,
+        "name": "นายทรงศักดิ์  รองวิริยะพานิช",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 65,
+        "name": "นายกษิดิศ  ชาญเชี่ยว",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 66,
+        "name": "นายพงศกรณ์ วิจิตเวชไพศาล",
+        "job_position": "อาจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 67,
+        "name": "นายปกรณ์  แววสว่างวงศ์",
+        "job_position": "อาจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 68,
+        "name": "น.ส.สุกัญญา  รัตโนทยานนท์",
+        "job_position": "อาจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 69,
+        "name": "น.ส.ประภาพร รัตนธำรง",
+        "job_position": "อาจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 70,
+        "name": "นายปกรณ์  ลี้สุทธิพรชัย",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 71,
+        "name": "นายวสิศ  ลิ้มประเสริฐ",
+        "job_position": "อาจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 72,
+        "name": "น.ส.อรจิรา  สิทธิศักดิ์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 73,
+        "name": "นายธนาธร  ทะนานทอง",
+        "job_position": "อาจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 74,
+        "name": "นายกฤตคม  ศรีจิรานนท์",
+        "job_position": "อาจารย์",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "campus": "3",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 75,
+        "name": "นายธนิท  เรืองรุ่งชัยกุล",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีเพื่อการพัฒนายั่งยืน",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 76,
+        "name": "นายสุเพชร  จิรขจรกุล",
+        "job_position": "รองศาสตราจารย์",
+        "department": "เทคโนโลยีเพื่อการพัฒนายั่งยืน",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 77,
+        "name": "นางนฤมล  พินเนียม ชนะไพฑูรย์",
+        "job_position": "รองศาสตราจารย์",
+        "department": "เทคโนโลยีเพื่อการพัฒนายั่งยืน",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 78,
+        "name": "น.ส.วนารัตน์  กรอิสรานุกูล",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีเพื่อการพัฒนายั่งยืน",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 79,
+        "name": "นายณัฐพล  จันทร์แก้ว",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีเพื่อการพัฒนายั่งยืน",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 80,
+        "name": "นายธเนศ  วีระศิริ",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีเพื่อการพัฒนายั่งยืน",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 81,
+        "name": "นายธนาพล ตันติสัตยกุล",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีเพื่อการพัฒนายั่งยืน",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 82,
+        "name": "นางภาณุมาศ  ฤทธิไชย",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 83,
+        "name": "น.ส.เยาวพา  จิระเกียรติกุล",
+        "job_position": "รองศาสตราจารย์",
+        "department": "เทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 84,
+        "name": "นายวรภัทร  ลัคนทินวงศ์",
+        "job_position": "รองศาสตราจารย์",
+        "department": "เทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 85,
+        "name": "นายธัญพิสิษฐ์  พวงจิก",
+        "job_position": "รองศาสตราจารย์",
+        "department": "เทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 86,
+        "name": "นายพิพัฒน์  สมภาร",
+        "job_position": "รองศาสตราจารย์",
+        "department": "เทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 87,
+        "name": "นางดรุณี  ศรีชนะ",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 88,
+        "name": "นายสมชาย  ชคตระการ",
+        "job_position": "รองศาสตราจารย์",
+        "department": "เทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 89,
+        "name": "น.ส.นิภารัตน์  ศรีธเรศ",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 90,
+        "name": "น.ส.วิลาวรรณ์  เชื้อบุญ",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 91,
+        "name": "น.ส.พักตร์เพ็ญ  ภูมิพันธ์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 92,
+        "name": "น.ส.ณัฐา  จริยภมรกุร",
+        "job_position": "อาจารย์ สพ.ญ.",
+        "department": "เทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 93,
+        "name": "นายดุสิต อธินุวัฒน์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 94,
+        "name": "นางอรประภา  เทพศิลปวิสุทธิ์",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 95,
+        "name": "น.ส.จุรีมาศ  วังคีรี",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 96,
+        "name": "นายพรชัย  หาระโคตร",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 97,
+        "name": "น.ส.แพรว   เที่ยงพิมล",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 98,
+        "name": "นายพฤกษ์  ชุติมานุกูล",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 99,
+        "name": "นายพีระ  อัจฉราเสถียร",
+        "job_position": "อาจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 100,
+        "name": "นายสุกฤษ  ตันตราวงศ์",
+        "job_position": "รองศาสตราจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 101,
+        "name": "น.ส.นภาพร  ยังวิเศษ",
+        "job_position": "รองศาสตราจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 102,
+        "name": "นายสุภกร  บุญยืน",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 103,
+        "name": "นายศิริวิทย์  บัวเจริญ",
+        "job_position": "อาจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 104,
+        "name": "นายนพรัตน์  พฤกษ์ทวีศักดิ์",
+        "job_position": "อาจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 105,
+        "name": "นายโอภาส  โตจิระ",
+        "job_position": "อาจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 106,
+        "name": "นายวีรยุทธ  ศรีชัยศิริเวช",
+        "job_position": "อาจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 107,
+        "name": "นายภานุมาศ  ทองอยู่",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 108,
+        "name": "น.ส.กมลทิพย์ เสรีนนท์ชัย",
+        "job_position": "อาจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 109,
+        "name": "นายภาวิต  พุฒประเสริฐ",
+        "job_position": "อาจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 110,
+        "name": "น.ส.สายสุรีย์  ประทีปทองคำ",
+        "job_position": "อาจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 111,
+        "name": "น.ส.สุวดี  ก้องพารากุล",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 112,
+        "name": "นางจิรดา  สิงขรรัตน์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 113,
+        "name": "น.ส. สุภาดา  คนยัง",
+        "job_position": "อาจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 114,
+        "name": "น.ส.พรรณิภา  เทพามาตย์",
+        "job_position": "อาจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 115,
+        "name": "น.ส.พนิชากรณ์  ใจยงค์",
+        "job_position": "อาจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 116,
+        "name": "นายวราวุธ  ติยพงศ์พัฒนา",
+        "job_position": "อาจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 117,
+        "name": "นายชนาธิป  สามารถ",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 118,
+        "name": "นายยุทธนา  ตันติรุ่งโรจน์ชัย",
+        "job_position": "รองศาสตราจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 119,
+        "name": "นางศิริพร  นาประเสริฐกูล",
+        "job_position": "อาจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 120,
+        "name": "นายพีระศักดิ์  เภาประเสริฐ",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 121,
+        "name": "นายบุญช่วย สุนทรวรจิต",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 122,
+        "name": "น.ส.จิราพร  อรุณพานิชเลิศ",
+        "job_position": "อาจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 123,
+        "name": "น.ส.วรรณฑณี  สิทธิวงษ์",
+        "job_position": "อาจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 124,
+        "name": "น.ส.ดวงเดือน  ไชยเวช",
+        "job_position": "อาจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 125,
+        "name": "นายนันทวัฒน์  วรรณฤทธิ์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 126,
+        "name": "นายสอาด  ริยะจันทร์",
+        "job_position": "รองศาสตราจารย์",
+        "department": "เคมี",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 127,
+        "name": "น.ส.ปรียาภรณ์  เรียนแพง",
+        "job_position": "อาจารย์",
+        "department": "เคมี",
+        "campus": "3",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 128,
+        "name": "นายจีราพัสฐ์  สีแจ่ม",
+        "job_position": "อาจารย์",
+        "department": "เคมี",
+        "campus": "3",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 129,
+        "name": "น.ส.พัชรี  ประทุมพงษ์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "1",
+        "ict_id": null
+    },
+    {
+        "id": 130,
+        "name": "นางเบญจมาภรณ์  ตั้งนรริชญ์",
+        "job_position": "อาจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "1",
+        "ict_id": null
+    },
+    {
+        "id": 131,
+        "name": "นายเทวัญ  เปลี่ยนสายทอง",
+        "job_position": "อาจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "1",
+        "ict_id": null
+    },
+    {
+        "id": 132,
+        "name": "น.ส.พรกมล  นาละกาญจน์",
+        "job_position": "อาจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "1",
+        "ict_id": null
+    },
+    {
+        "id": 133,
+        "name": "นายมนู  เฟื่องฟุ้ง",
+        "job_position": "รองศาสตราจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 134,
+        "name": "นายทวี  ฉิมอ้อย",
+        "job_position": "รองศาสตราจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 135,
+        "name": "นางเจียรนัย  เล็กอุทัย",
+        "job_position": "รองศาสตราจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 136,
+        "name": "น.ส.กัลยา  เอื้ยประเสริฐศักดิ์",
+        "job_position": "อาจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 137,
+        "name": "นายประวิทย์  เรืองไรรัตนโรจน์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 138,
+        "name": "น.ส.ทิพย์สุดา  ไชยไพบูลย์วงศ์",
+        "job_position": "อาจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 139,
+        "name": "นายณัฐพล  นาคปฐมกุล",
+        "job_position": "อาจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 140,
+        "name": "นายสิทธิโชค  อำนวยพล",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 141,
+        "name": "นายปกรณ์  ปรีชาบูรณะ",
+        "job_position": "อาจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 142,
+        "name": "นายสายัณห์  ผุดวัฒน์",
+        "job_position": "อาจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 143,
+        "name": "นายชุมพล  วิชิตธนาคม",
+        "job_position": "อาจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 144,
+        "name": "นายยิ่งยศ  อินฟ้าแสง",
+        "job_position": "อาจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 145,
+        "name": "นายกมล  เอี่ยมพนากิจ",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 146,
+        "name": "นายนพพร  พูลยรัตน์",
+        "job_position": "อาจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 147,
+        "name": "นายอดิศักดิ์  ร่มพุฒตาล",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 148,
+        "name": "นายเรวัตร  ใจสุทธิ",
+        "job_position": "อาจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 149,
+        "name": "นายทศพร  อังสาชน",
+        "job_position": "อาจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 150,
+        "name": "นายกิตติพัฒน์  มาลากิจ",
+        "job_position": "อาจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 151,
+        "name": "นายอรรฆวัชร รวมไมตรี",
+        "job_position": "อาจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 152,
+        "name": "นายบุญพิทักษ์ งามวัฒนากุล",
+        "job_position": "อาจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "3",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 153,
+        "name": "นายมาโนชย์  ศรีนางแย้ม",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาศาสตร์และเทคโนโลยีการอาหาร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 154,
+        "name": "น.ส.วรางคณา  สมพงษ์",
+        "job_position": "รองศาสตราจารย์",
+        "department": "วิทยาศาสตร์และเทคโนโลยีการอาหาร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 155,
+        "name": "นางบุศราภา  ลีละวัฒน์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาศาสตร์และเทคโนโลยีการอาหาร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 156,
+        "name": "นางประภาศรี  เทพรักษา",
+        "job_position": "รองศาสตราจารย์",
+        "department": "วิทยาศาสตร์และเทคโนโลยีการอาหาร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 157,
+        "name": "น.ส.วิไลลักษณ์  ชัยสิทธิ์",
+        "job_position": "อาจารย์",
+        "department": "วิทยาศาสตร์และเทคโนโลยีการอาหาร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 158,
+        "name": "น.ส.สิรินดา  กุสุมภ์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาศาสตร์และเทคโนโลยีการอาหาร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 159,
+        "name": "นายสมโภช  พจนพิมล",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาศาสตร์และเทคโนโลยีการอาหาร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 160,
+        "name": "น.ส.เปี่ยมสุข  สุวรรณกูฎ",
+        "job_position": "อาจารย์",
+        "department": "วิทยาศาสตร์และเทคโนโลยีการอาหาร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 161,
+        "name": "นายภูมินาถ  ชื่นชมรัตน์",
+        "job_position": "อาจารย์",
+        "department": "วิทยาศาสตร์และเทคโนโลยีการอาหาร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 162,
+        "name": "น.ส.อวันวี  เพชรคงแก้ว",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาศาสตร์และเทคโนโลยีการอาหาร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 163,
+        "name": "น.ส.สุธีรา  วัฒนกุล",
+        "job_position": "อาจารย์",
+        "department": "วิทยาศาสตร์และเทคโนโลยีการอาหาร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 164,
+        "name": "นายรชา  เทพษร",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาศาสตร์และเทคโนโลยีการอาหาร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 165,
+        "name": "น.ส.กฤติยา  เขื่อนเพชร",
+        "job_position": "อาจารย์",
+        "department": "วิทยาศาสตร์และเทคโนโลยีการอาหาร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 166,
+        "name": "น.ส.ศิริพรรณ  ทวีสุข",
+        "job_position": "รองศาสตราจารย์",
+        "department": "วิทยาศาสตร์สิ่งแวดล้อม",
+        "campus": "2",
+        "type": "1",
+        "ict_id": null
+    },
+    {
+        "id": 167,
+        "name": "นายบัณฑิต  อนุรักษ์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาศาสตร์สิ่งแวดล้อม",
+        "campus": "2",
+        "type": "1",
+        "ict_id": null
+    },
+    {
+        "id": 168,
+        "name": "นายไตรเทพ  วิชย์โกวิทเทน",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาศาสตร์สิ่งแวดล้อม",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 169,
+        "name": "น.ส.วิลาวัณย์  ภมรสุวรรณ",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาศาสตร์สิ่งแวดล้อม",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 170,
+        "name": "นายสมบูรณ์  กีรติประยูร",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาศาสตร์สิ่งแวดล้อม",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 171,
+        "name": "นายโรจน์  คุณเอนก",
+        "job_position": "รองศาสตราจารย์",
+        "department": "วิทยาศาสตร์สิ่งแวดล้อม",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 172,
+        "name": "นายสุริยะกิจ  ย่อมมี",
+        "job_position": "อาจารย์",
+        "department": "วิทยาศาสตร์สิ่งแวดล้อม",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 173,
+        "name": "น.ส.วนิดา  ชูอักษร",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "วิทยาศาสตร์สิ่งแวดล้อม",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 174,
+        "name": "นายสรณ์  สุวรรณโชติ",
+        "job_position": "อาจารย์",
+        "department": "วิทยาศาสตร์สิ่งแวดล้อม",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 175,
+        "name": "น.ส.จุฑาศินี  ธัญปราณีตกุล",
+        "job_position": "อาจารย์",
+        "department": "วิทยาศาสตร์สิ่งแวดล้อม",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 176,
+        "name": "นางภารดี  ช่วยบำรุง",
+        "job_position": "รองศาสตราจารย์",
+        "department": "วิทยาศาสตร์สิ่งแวดล้อม",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 177,
+        "name": "นายมารุต สุขสมจิตร",
+        "job_position": "อาจารย์",
+        "department": "วิทยาศาสตร์สิ่งแวดล้อม",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 178,
+        "name": "น.ส.ภรณี  อุทโยภาศ",
+        "job_position": "รองศาสตราจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "1",
+        "ict_id": null
+    },
+    {
+        "id": 179,
+        "name": "นายกิตติพัฒน์  อุโฆษกิจ",
+        "job_position": "รองศาสตราจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 180,
+        "name": "นางสุธีรา  ลิมปิพิชัย",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 181,
+        "name": "นางวิภา  ตังคนานนท์",
+        "job_position": "รองศาสตราจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 182,
+        "name": "นายชนัญ  ผลประไพ",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 183,
+        "name": "นายประเสริฐ  วงศ์วัฒนารัตน์",
+        "job_position": "รองศาสตราจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 184,
+        "name": "นางสมจิต  ดำริห์อนันต์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 185,
+        "name": "นางนิรมล  ศากยวงศ์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 186,
+        "name": "นายยงศักดิ์  ขจรผดุงกิตติ",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 187,
+        "name": "นางชนิตโชต  ปิยพิทยานันต์",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 188,
+        "name": "น.ส.ณฐินี  สุวรรณสิงห์",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 189,
+        "name": "นายธีระชัย  ธนานันต์",
+        "job_position": "รองศาสตราจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 190,
+        "name": "น.ส.ธีรวัฒนา  ภาระมาตย์",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 191,
+        "name": "น.ส.รัฐดา  จันทร์กลั่น",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 192,
+        "name": "นางสุเปญญา  จิตตพันธ์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 193,
+        "name": "น.ส.ปาริยา  ณ นคร",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 194,
+        "name": "นายภูภิภัทร  ใจแก้ว",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 195,
+        "name": "น.ส.สุกัลยา  อุทัยดา",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 196,
+        "name": "น.ส.หทัยกาญจน์ เลกากาญจน์",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 197,
+        "name": "น.ส.วรุณธร  เชื้อบุญมี",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 198,
+        "name": "น.ส.ภัทรพร  คุ้มภัย",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 199,
+        "name": "น.ส.ศรีสุดา  ปัณณานุสรณ์ ",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 200,
+        "name": "นายเทพปัญญา  เจริญรัตน์",
+        "job_position": "รองศาสตราจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 201,
+        "name": "นางสุดาทิพย์  จันทร",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 202,
+        "name": "น.ส.นวลกมล  อำนวยสิน",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 203,
+        "name": "น.ส.เกวลิน อินทนนท์",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "3",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 204,
+        "name": "น.ส.บุปผา  เพชรรัตน์",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "3",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 205,
+        "name": "น.ส.เจนจรีย์  อินอุทัย",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "3",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 206,
+        "name": "น.ส.เบญญา  เชิดหิรัญกร",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีวัสดุและสิ่งทอ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 207,
+        "name": "นายกิตติพงษ์  ไชยนอก",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีวัสดุและสิ่งทอ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 208,
+        "name": "น.ส.เบญจมาศ  คล้ายเครือญาติ",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีวัสดุและสิ่งทอ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 209,
+        "name": "น.ส.พิศุทธิ์สรัล  ชิติโชติปัญญา",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีวัสดุและสิ่งทอ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 210,
+        "name": "น.ส.เพ็ญวิสาข์  พิสิฏฐศักดิ์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีวัสดุและสิ่งทอ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 211,
+        "name": "นายสมยศ  คงคารัตน์",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีวัสดุและสิ่งทอ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 212,
+        "name": "น.ส.นันทพร  คงคะจันทร์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีวัสดุและสิ่งทอ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 213,
+        "name": "นางณัฐยา  วุฒิกานนท์",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีวัสดุและสิ่งทอ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 214,
+        "name": "นายเสรณี  ศรีสุข",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีวัสดุและสิ่งทอ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 215,
+        "name": "น.ส.จิรภา  ตั้งศรีตระกูล",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีวัสดุและสิ่งทอ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 216,
+        "name": "น.ส.จิราพร  หุตะกมล ",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีวัสดุและสิ่งทอ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 217,
+        "name": "นายศรุต  อำมาตย์โยธิน",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีวัสดุและสิ่งทอ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 218,
+        "name": "นายชิราวุฒิ  เพชรเย็น",
+        "job_position": "ผู้ช่วยศาสตราจารย์",
+        "department": "เทคโนโลยีวัสดุและสิ่งทอ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 219,
+        "name": "น.ส.ฐิติรัตน์  อินทร์ประสิทธิ์",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีวัสดุและสิ่งทอ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 220,
+        "name": "Mr.Roland Johannes Petrasch",
+        "job_position": "ผู้เชี่ยวชาญ ระดับ 3",
+        "department": "โครงการหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "4",
+        "ict_id": null
+    },
+    {
+        "id": 221,
+        "name": "Mrs.Smitha Krishnan",
+        "job_position": "ผู้เชี่ยวชาญ ระดับ 1",
+        "department": "โครงการหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "4",
+        "ict_id": null
+    },
+    {
+        "id": 222,
+        "name": "น.ส.กาญจนา  ทองเต็ม",
+        "job_position": "ผู้ปฏิบัติงานบริหารชำนาญงาน",
+        "department": "งานวิชาการและกิจการนักศึกษา",
+        "campus": "2",
+        "type": "1",
+        "ict_id": null
+    },
+    {
+        "id": 223,
+        "name": "นายจิตติพัฒน์  สงวนสิน",
+        "job_position": "วิศวกรชำนาญการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "1",
+        "ict_id": null
+    },
+    {
+        "id": 224,
+        "name": "นายแสนสุข  โสภณ   ",
+        "job_position": "ช่างเทคนิคชำนาญงาน",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "1",
+        "ict_id": null
+    },
+    {
+        "id": 225,
+        "name": "นายสุพจน์  นาขวัญ",
+        "job_position": "นักวิชาการศึกษาชำนาญการ",
+        "department": "สำนักงานเลขานุการ",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 226,
+        "name": "น.ส.ประทุมทิพย์  ชั้วนาค",
+        "job_position": "ผู้ปฏิบัติงานบริหารชำนาญงาน",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 227,
+        "name": "น.ส.สุรางคณา  พลายเพ็ชร",
+        "job_position": "ผู้ปฏิบัติงานบริหารชำนาญงาน",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 228,
+        "name": "นางระเบียบ  สวนพันธุ์",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไปชำนาญการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 229,
+        "name": "นางธนัชพร  ดวงจันทร์",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไปชำนาญการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 230,
+        "name": "น.ส.สมสุข  ลิ้มอิ่ม",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไปชำนาญการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 231,
+        "name": "นางมาลี  ชอบธรรม",
+        "job_position": "ผู้ปฏิบัติงานบริหารชำนาญงาน",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 232,
+        "name": "น.ส.จิณห์นิภา  พลสงคราม",
+        "job_position": "นักวิชาการพัสดุชำนาญการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 233,
+        "name": "นางสุนันต์  อ่วมกระทุ่ม",
+        "job_position": "นักวิชาการศึกษาชำนาญการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 234,
+        "name": "นายมงคล  วาวตะคุ",
+        "job_position": "วิศวกรชำนาญการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 235,
+        "name": "นายบรรจงศักดิ์  พิทักษ์วงศ์",
+        "job_position": "ช่างอิเล็กทรอนิกส์ชำนาญงาน",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 236,
+        "name": "น.ส.ปณิชา  สถาวรศีลพร",
+        "job_position": "นักวิชาการพัสดุปฏิบัติการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 237,
+        "name": "นางพรศิริ  สุทธิธรรม",
+        "job_position": "นักวิชาการเงินและบัญชีปฏิบัติการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 238,
+        "name": "นางปวีณา  บินสอาด",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไปปฏิบัติการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 239,
+        "name": "น.ส.สุนิสา  ปัญญาใส",
+        "job_position": "นักวิชาการเงินและบัญชีปฏิบัติการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 240,
+        "name": "น.ส.จารุวรรณ  ชื่นเสียง",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไปปฏิบัติการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 241,
+        "name": "น.ส.สิริมา  สุโพธิ์",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไปปฏิบัติการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 242,
+        "name": "นายวีระพงศ์  ดอกผึ้ง",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไปปฏิบัติการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "3",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 243,
+        "name": "ว่าที่ร้อยตรีวัฒนพงษ์  เลี่ยนเพ็ชร",
+        "job_position": "บุคลากรปฏิบัติการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 244,
+        "name": "นายพรชัย  นพประโคน",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไปชำนาญการ",
+        "department": "งานยุทธศาสตร์และการพัฒนาองค์กร",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 245,
+        "name": "นายนิรัช  ร่มเย็น",
+        "job_position": "นักวิชาการคอมพิวเตอร์ปฏิบัติการ",
+        "department": "งานยุทธศาสตร์และการพัฒนาองค์กร",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 246,
+        "name": "นายไชยรัตน์  ไวยลาภ",
+        "job_position": "นักวิชาการคอมพิวเตอร์ชำนาญการพิเศษ",
+        "department": "งานยุทธศาสตร์และการพัฒนาองค์กร",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 247,
+        "name": "นางโนรี  เทียนขวัญ",
+        "job_position": "นักวิชาการเงินและบัญชีชำนาญการ",
+        "department": "งานยุทธศาสตร์และการพัฒนาองค์กร",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 248,
+        "name": "น.ส.กรรณิการ์  ทรัพย์สมบูรณ์",
+        "job_position": "นักวิชาการคอมพิวเตอร์ชำนาญการพิเศษ",
+        "department": "งานยุทธศาสตร์และการพัฒนาองค์กร",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 249,
+        "name": "น.ส.นลินี  ทรัพย์สมบูรณ์",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไปชำนาญการ",
+        "department": "งานยุทธศาสตร์และการพัฒนาองค์กร",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 250,
+        "name": "น.ส.พัชรัตน์  มีมะโน",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไปชำนาญการ",
+        "department": "งานยุทธศาสตร์และการพัฒนาองค์กร",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 251,
+        "name": "ว่าที่ร้อยตรีภฤศ วิเศษพัฒนธาดา  ",
+        "job_position": "ช่างเครื่องคอมพิวเตอร์ชำนาญงาน",
+        "department": "งานยุทธศาสตร์และการพัฒนาองค์กร",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 252,
+        "name": "นางฉันชนก  โหยหวล",
+        "job_position": "เจ้าหน้าที่ระบบงานคอมพิวเตอร์ชำนาญการ",
+        "department": "งานยุทธศาสตร์และการพัฒนาองค์กร",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 253,
+        "name": "น.ส.อนันตา  โพธิ์รัง",
+        "job_position": "ช่างเครื่องคอมพิวเตอร์ปฏิบัติงาน",
+        "department": "งานยุทธศาสตร์และการพัฒนาองค์กร",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 254,
+        "name": "นายอภินันท์  ชูหนู",
+        "job_position": "นักวิชาการศึกษาชำนาญการ",
+        "department": "งานยุทธศาสตร์และการพัฒนาองค์กร",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 255,
+        "name": "นายประณต  ผาสุกชีวิน",
+        "job_position": "นักวิชาการคอมพิวเตอร์ปฏิบัติการ",
+        "department": "งานยุทธศาสตร์และการพัฒนาองค์กร",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 256,
+        "name": "นายกัมพล  ศรีอิ่นแก้ว",
+        "job_position": "นักวิชาการคอมพิวเตอร์",
+        "department": "งานยุทธศาสตร์และการพัฒนาองค์กร",
+        "campus": "3",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 257,
+        "name": "น.ส.ชัชชนก  รัตนกิจภิญโญ",
+        "job_position": "นักวิเคราะห์นโยบายและแผน",
+        "department": "งานยุทธศาสตร์และการพัฒนาองค์กร",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 258,
+        "name": "นางพิรชา  วัฒนาภัทรสกุล",
+        "job_position": "นักวิทยาศาสาตร์ชำนาญการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 259,
+        "name": "น.ส.กาญจนา  โมธินา",
+        "job_position": "นักวิทยาศาสาตร์ชำนาญการพิเศษ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 260,
+        "name": "นางอัจฉราพร  แปลนนาค",
+        "job_position": "นักวิเคราะห์นโยบายและแผนชำนาญการพิเศษ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 261,
+        "name": "นางณัฐคงคา  ศิริธร",
+        "job_position": "นักวิทยาศาสตร์ชำนาญการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 262,
+        "name": "นายรวมพร  ทองเรือง",
+        "job_position": "นักวิทยาศาสตร์ชำนาญการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 263,
+        "name": "นายสุริยา  สุเทวพร",
+        "job_position": "นักวิทยาศาสตร์ชำนาญการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 264,
+        "name": "นายปราโมทย์  เลาเก็ง",
+        "job_position": "ผู้ปฏิบัติงานวิทยาศาตร์ชำนาญงาน",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 265,
+        "name": "นายสุชาติ  เชษฐนอก",
+        "job_position": "นักวิทยาศาสตร์ปฏิบัติการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 266,
+        "name": "นายวิชัย  สุทธิธรรม",
+        "job_position": "นักวิชาการเกษตรชำนาญการพิเศษ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 267,
+        "name": "นางคณัสมน  ชูกำเหนิด",
+        "job_position": "นักวิทยาศาสตร์ชำนาญการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 268,
+        "name": "นายวิศิษฐ์พล  สุวรรณสาร",
+        "job_position": "นักวิทยาศาสตร์ชำนาญการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 269,
+        "name": "นายสนุน  โสนนอก",
+        "job_position": "นักวิทยาศาสตร์ชำนาญการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 270,
+        "name": "นายเศรษฐการ  นุชนิยม",
+        "job_position": "นักวิทยาศาสตร์ชำนาญการพิเศษ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 271,
+        "name": "น.ส.ศิริภัทชรินทร  มหาวีรวัฒน์",
+        "job_position": "นักวิทยาศาสตร์ชำนาญการพิเศษ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 272,
+        "name": "นายจตุพร  ธีระกุล",
+        "job_position": "นักวิทยาศาสตร์ชำนาญการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 273,
+        "name": "น.ส.สมจินตนา  พุทธมาตย์",
+        "job_position": "นักวิทยาศาสตร์ปฏิบัติการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 274,
+        "name": "นายพรพันธ์  ภารพ",
+        "job_position": "นักวิทยาศาสตร์ปฏิบัติการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 275,
+        "name": "นายสุเทพ  เกตษา",
+        "job_position": "นักวิทยาศาสตร์ปฏิบัติการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 276,
+        "name": "นายนิติ  พานิชเกษม",
+        "job_position": "นักวิทยาศาสตร์ปฏิบัติการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 277,
+        "name": "น.ส.นริศรา  คล้ายหิรัญ",
+        "job_position": "นักวิทยาศาสตร์ปฏิบัติการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 278,
+        "name": "น.ส.เนตรนภัส  จันทร์พ่วง",
+        "job_position": "นักวิชาการศึกษาปฏิบัติการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 279,
+        "name": "น.ส.กมลกานต์  ศรีหารักษา",
+        "job_position": "นักวิทยาศาสตร์ปฏิบัติการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 280,
+        "name": "นายเปรมณัช  ขุนปักษี",
+        "job_position": "นักวิทยาศาสตร์ปฏิบัติการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 281,
+        "name": "นายจาตุรนต์    จันทะมาตร",
+        "job_position": "นักวิทยาศาสตร์ปฏิบัติการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 282,
+        "name": "นายไพวัณย์ ศรีนุกูล",
+        "job_position": "นักวิทยาศาสตร์ปฏิบัติการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 283,
+        "name": "นายวุฒิชัย  ขอทะเสน",
+        "job_position": "นักวิทยาศาสตร์ปฏิบัติการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "3",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 284,
+        "name": "น.ส.วิสุดา  แก้วนันไชย",
+        "job_position": "นักวิทยาศาสตร์ปฏิบัติการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "3",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 285,
+        "name": "นางสาวสุดารัตน์  สมเรือง",
+        "job_position": "นักวิทยาศาสตร์ปฏิบัติการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 286,
+        "name": "น.ส.ทิพวิมล  ไตรกูล",
+        "job_position": "นักวิทยาศาสตร์ปฏิบัติการ",
+        "department": "งานวิจัยบริการและบัณฑิตศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 287,
+        "name": "นางสายพิน  นพประโคน",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไปชำนาญการ",
+        "department": "งานวิชาการและกิจการนักศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 288,
+        "name": "น.ส.กรรณิการ์  วงศ์ไทย",
+        "job_position": "นักวิชาการศึกษาชำนาญการ",
+        "department": "งานวิชาการและกิจการนักศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 289,
+        "name": "น.ส.สิรินันท์  ตรีนันทวัน",
+        "job_position": "นักวิชาการศึกษาปฏิบัติการ",
+        "department": "งานวิชาการและกิจการนักศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 290,
+        "name": "น.ส.กนกกาญจน์  หว้ามุข",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไปปฏิบัติการ",
+        "department": "งานวิชาการและกิจการนักศึกษา",
+        "campus": "2",
+        "type": "2",
+        "ict_id": null
+    },
+    {
+        "id": 291,
+        "name": "นายนิตย์  พวงชะเอม",
+        "job_position": "พนักงานบริการเอกสารทั่วไป",
+        "department": "งานวิชาการและกิจการนักศึกษา",
+        "campus": "2",
+        "type": "4",
+        "ict_id": null
+    },
+    {
+        "id": 292,
+        "name": "นางบรรจง  ไชยฤกษ์",
+        "job_position": "พนักงานสถานที่",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "4",
+        "ict_id": null
+    },
+    {
+        "id": 293,
+        "name": "นางแสงจันทร์  ฮ้อรอด",
+        "job_position": "พนักงานสถานที่",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "4",
+        "ict_id": null
+    },
+    {
+        "id": 294,
+        "name": "นางสมเวียง  แสงสุทธิ",
+        "job_position": "พนักงานบริการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "4",
+        "ict_id": null
+    },
+    {
+        "id": 295,
+        "name": "นายวิเชียร  จุดประสงค์",
+        "job_position": "พนักงานบริการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "4",
+        "ict_id": null
+    },
+    {
+        "id": 296,
+        "name": "นางโสภา  อยู่เปรม",
+        "job_position": "พนักงานบริการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "4",
+        "ict_id": null
+    },
+    {
+        "id": 297,
+        "name": "นางประไพ  เทียนเทพ",
+        "job_position": "พนักงานธุรการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "4",
+        "ict_id": null
+    },
+    {
+        "id": 298,
+        "name": "นางสายพิณ  ธรรมทันตา",
+        "job_position": "พนักงานบริการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "4",
+        "ict_id": null
+    },
+    {
+        "id": 299,
+        "name": "น.ส.บรรจง  น้ำนวล",
+        "job_position": "พนักงานบริการ",
+        "department": "งานบริหารและการคลัง",
+        "campus": "2",
+        "type": "4",
+        "ict_id": null
+    },
+    {
+        "id": 300,
+        "name": "นางสาวอิงค์กมนพัชร  ไหมจุ้ย",
+        "job_position": "นักวิทยาศาสตร์",
+        "department": "ภาควิชาเทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 301,
+        "name": "นางฐิติยา  สีทอนสุด",
+        "job_position": "นักวิทยาศาสตร์",
+        "department": "ภาควิชาวิทยาศาสตร์สิ่งแวดล้อม",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 302,
+        "name": "นางสาวอัจฉริยา  จันทร์สว่าง",
+        "job_position": "นักวิทยาศาสตร์",
+        "department": "ภาควิชาวิทยาศาสตร์สิ่งแวดล้อม",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 303,
+        "name": "นางสาวขวัญรักษ์  จันทร์ส่องศรี",
+        "job_position": "นักวิทยาศาสตร์",
+        "department": "ภาควิชาวิทยาศาสตร์และเทคโนโลยีการอาหาร",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 304,
+        "name": "นางกัลยารัตน์ ภู่สุดแสวง",
+        "job_position": "นักวิทยาศาสตร์",
+        "department": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 305,
+        "name": "นายภัทรเดช  ขวัญอยู่",
+        "job_position": "นักวิทยาศาสตร์",
+        "department": "โครงการศูนย์เครื่องมือกลาง",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 306,
+        "name": "นางสาวไพลิน  นิลชัย",
+        "job_position": "นักวิเทศสัมพันธ์",
+        "department": "งานบริการการศึกษา   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 307,
+        "name": "นายนัฐชยพงศ์  ธีรัชตระกูล",
+        "job_position": "นักวิทยาศาสตร์",
+        "department": "ภาควิชาฟิสิกส์",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 308,
+        "name": "นางสาวศิริรัตน์  นิยมศักดิ์",
+        "job_position": "เจ้าหน้าที่ระบบงานคอมพิวเตอร์",
+        "department": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 309,
+        "name": "นายชยุตม์  แผลงศร",
+        "job_position": "นักวิชาการโสตทัศนูปกรณ์",
+        "department": "งานเทคโนโลยีสารสนเทศ   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 310,
+        "name": "นางสาวพิสมัย  โพธิ์ศรี",
+        "job_position": "นักวิชาการเกษตร",
+        "department": "ภาควิชาเทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 311,
+        "name": "นางสาวศรีเรือน  ระย้าเพ็ชร",
+        "job_position": "นักวิชาการศึกษา",
+        "department": "ภาควิชาคณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 312,
+        "name": "นายจารุพงศ์  อินตาแพง",
+        "job_position": "นักวิเคราะห์นโยบายและแผน",
+        "department": "งานนโยบายและแผน   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "nan",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 313,
+        "name": "นางสาวกรกนก  เพิกอินทร์",
+        "job_position": "นักวิชาการเงินและบัญชี",
+        "department": "งานคลังและพัสดุ   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 314,
+        "name": "นางสาวณภัทรพร  โสภาผล",
+        "job_position": "นักวิชาการพัสดุ",
+        "department": "งานคลังและพัสดุ   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 315,
+        "name": "นางสาวฉัตรวณา  สถาพร",
+        "job_position": "นักวิชาการพัสดุ",
+        "department": "งานคลังและพัสดุ   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 316,
+        "name": "นางชมศมนต์  เพ็ชรรัตน์มุณี",
+        "job_position": "นักวิชาการเงินและบัญชี",
+        "department": "งานคลังและพัสดุ   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 317,
+        "name": "นางสาวเนตรนภา  กุลเพ็ง",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "งานบริหารและธุรการ   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 318,
+        "name": "นางสาวจารญา  เจริญพงศ์",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "งานบริการการศึกษา   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 319,
+        "name": "นางสาวนพรัตน์  พิกุล",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "งานบริหารและธุรการ   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 320,
+        "name": "นายครรชิต  วิริยาพันธ์",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "สาขาวิชาเกษตรอินทรีย์   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 321,
+        "name": "นางสาวศิริพร  ไม้หอม",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "ภาควิชาเทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 322,
+        "name": "นางสาวรุ่งทิพย์  ชาติสวัสดิ์",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "ภาควิชาฟิสิกส์",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 323,
+        "name": "นางสาวยุพดี  เลือกนารี",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "ภาควิชาเทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 324,
+        "name": "นายพีระวัฒน์  แกล้ววิการณ์",
+        "job_position": "นักวิทยาศาสตร์",
+        "department": "ภาควิชาเทคโนโลยีชนบท",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 325,
+        "name": "นางมัลลิกา  บริรักษ์",
+        "job_position": "ผู้ปฏิบัติงานบริหาร",
+        "department": "งานอาคารและสถานที่   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 326,
+        "name": "นางนิชานาถ  ผลมะขาม",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "ภาควิชาวิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 327,
+        "name": "นางจิรารัตน์  แก้ววิมล",
+        "job_position": "ผู้ปฏิบัติงานบริหาร",
+        "department": "ภาควิชาเคมี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 328,
+        "name": "นางกินนร  จุดประสงค์",
+        "job_position": "พนักงานสถานที่",
+        "department": "งานอาคารและสถานที่   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 329,
+        "name": "นายนิรันร์  ไวยฉายี",
+        "job_position": "พนักงานสถานที่",
+        "department": "งานอาคารและสถานที่   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 330,
+        "name": "นางแจ่มจันทร์  เมืองลำเจียก",
+        "job_position": "พนักงานสถานที่",
+        "department": "งานอาคารและสถานที่   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 331,
+        "name": "นางวันนา  กลิ่นบุญ",
+        "job_position": "พนักงานสถานที่",
+        "department": "งานอาคารและสถานที่   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 332,
+        "name": "นางฐิติภา  พระแก้ว",
+        "job_position": "พนักงานสถานที่",
+        "department": "งานอาคารและสถานที่   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 333,
+        "name": "นางสาวสมทรง  ชอบธรรม",
+        "job_position": "พนักงานสถานที่",
+        "department": "ภาควิชาคณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 334,
+        "name": "นางสุวณี  หงษ์คำ",
+        "job_position": "พนักงานสถานที่",
+        "department": "ภาควิชาวิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 335,
+        "name": "นายสมเดช  กุดเป็ง",
+        "job_position": "พนักงานสถานที่",
+        "department": "ภาควิชาเทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 336,
+        "name": "นางคำจันทร์  เลี่ยนเพ็ชร",
+        "job_position": "พนักงานสถานที่",
+        "department": "ภาควิชาวิทยาศาสตร์และเทคโนโลยีการอาหาร",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 337,
+        "name": "นางวารี  คล้ายเชียงราก",
+        "job_position": "พนักงานสถานที่",
+        "department": "ภาควิชาวิทยาศาสตร์และเทคโนโลยีการอาหาร",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 338,
+        "name": "นางฐิติกานต์  ฮ้อรอด",
+        "job_position": "พนักงานสถานที่",
+        "department": "ภาควิชาเทคโนโลยีชนบท",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 339,
+        "name": "นางทิพวัลย์  แย้มเจริญ",
+        "job_position": "พนักงานสถานที่",
+        "department": "ภาควิชาเคมี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 340,
+        "name": "นางอิสรีย์  วารักดี",
+        "job_position": "พนักงานสถานที่",
+        "department": "ภาควิชาเคมี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 341,
+        "name": "นายสายชล  ลาไม้",
+        "job_position": "พนักงานสถานที่",
+        "department": "ภาควิชาเคมี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 342,
+        "name": "นางนริศรา  จันจั่นเพชร",
+        "job_position": "พนักงานสถานที่",
+        "department": "ภาควิชาฟิสิกส์",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 343,
+        "name": "นางสาวเจนจิรา  นาขะมิน",
+        "job_position": "พนักงานสถานที่",
+        "department": "ภาควิชาฟิสิกส์",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 344,
+        "name": "นางสาวสิริรัตน์  สิบตรี",
+        "job_position": "พนักงานสถานที่",
+        "department": "ภาควิชาฟิสิกส์",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 345,
+        "name": "นางสมนึก  บัวเขียวอ่อน",
+        "job_position": "พนักงานสถานที่",
+        "department": "ภาควิชาเทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 346,
+        "name": "นางเรไร  ไวยฉายี",
+        "job_position": "พนักงานสถานที่",
+        "department": "ภาควิชาวิทยาศาสตร์และเทคโนโลยีสิ่งทอ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 347,
+        "name": "นางวันเพ็ญ  สุดสระ",
+        "job_position": "พนักงานสถานที่",
+        "department": "งานอาคารและสถานที่   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 348,
+        "name": "นางกาญจนา  บู่บาง",
+        "job_position": "พนักงานสถานที่",
+        "department": "งานอาคารและสถานที่   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 349,
+        "name": "นายธีรวัฒน์  จันทร์สุเทพ",
+        "job_position": "วิศวกร",
+        "department": "งานอาคารและสถานที่   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 350,
+        "name": "นายเฉลิมพงศ์  สิมลา",
+        "job_position": "นักวิชาการคอมพิวเตอร์ปฏิบัติการ",
+        "department": "งานเทคโนโลยีสารสนเทศ   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 351,
+        "name": "นายศานติ  บุญหล้า",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "งานบริการการศึกษา   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 352,
+        "name": "นายตั้งใจ  หมอกครบุรี",
+        "job_position": "พนักงานสถานที่",
+        "department": "งานอาคารและสถานที่   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 353,
+        "name": "นายสมบูรณ์  เทียนอร่าม",
+        "job_position": "พนักงานขับรถยนต์",
+        "department": "งานอาคารและสถานที่   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 354,
+        "name": "นายวิรัช  เกิดแก่น",
+        "job_position": "พนักงานขับรถยนต์",
+        "department": "งานอาคารและสถานที่   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 355,
+        "name": "นางสาวอัมพร  มะลิซ้อน",
+        "job_position": "ครูผู้ช่วย",
+        "department": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 356,
+        "name": "นางสาวสุวีนา  ทับเทศ",
+        "job_position": "ครูผู้ช่วย",
+        "department": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 357,
+        "name": "นางพัชรี  ทรัพย์สมบูรณ์",
+        "job_position": "นักวิชาการเงินและบัญชี",
+        "department": "โครงการบริการสังคม   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 358,
+        "name": "นางสาวนิพา  ฟองเขียว",
+        "job_position": "นักวิชาการเงินและบัญชี",
+        "department": "โครงการบริการสังคม   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 359,
+        "name": "นางกนิษฐา  สุขสมลักษณ์",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "โครงการบริการสังคม   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 360,
+        "name": "นางสาวฐิติพร  โสมนาม",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "โครงการปริญญาตรีหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 361,
+        "name": "นางสาวจารุทรรศน์  จันทรสุรินทร์",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "โครงการปริญญาตรีหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 362,
+        "name": "นางสาวสุพิชฌาย์  ทองบุญมา",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "โครงการบริการสังคม   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 363,
+        "name": "นางสาวนุสรา  บัวสร้อย",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "โครงการปริญญาตรีหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 364,
+        "name": "นางสาวอธิตา  หะยีการีม",
+        "job_position": "นักวิชาการเงินและบัญชี",
+        "department": "โครงการบริการสังคม   สนง.เลขานุการคณะวิทยาศาสตร์และเทคโนโลยี",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 365,
+        "name": "นายวุฒิศักดิ์  ลาละคร",
+        "job_position": "นักวิชาการศึกษา",
+        "department": "โครงการปริญญาตรีหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 366,
+        "name": "นางสาวขวัญเรือน  จันทรทัต",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "ภาควิชาคณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 367,
+        "name": "นางเพ็ญแข  เสนาจันทร์",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "ภาควิชาคณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 368,
+        "name": "นางมาลัย  แก้วกลิ่น",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "ภาควิชาคณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 369,
+        "name": "นางสาวศิริพร  จบดี",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "ภาควิชาคณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 370,
+        "name": "นางพรทิพย์  บุญมาก",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "ภาควิชาคณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 371,
+        "name": "นายจรัญ  ขาวสะอาด",
+        "job_position": "นักการภารโรง",
+        "department": "ภาควิชาคณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 372,
+        "name": "นางจันทรกานต์  ยินดีชัย",
+        "job_position": "นักการภารโรง",
+        "department": "ภาควิชาคณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 373,
+        "name": "นางสาวรจนา  ปิ่นทอง",
+        "job_position": "นักการภารโรง",
+        "department": "ภาควิชาคณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 374,
+        "name": "นางสาวอัญมณีนุช  บัวแก้ว",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "ภาควิชาคณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 375,
+        "name": "นางสาวอมรกุล  สินประวุธฒ",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "ภาควิชาคณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 376,
+        "name": "นางสาวสุพัตรา  รัตนเดชา",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "ภาควิชาคณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 377,
+        "name": "นางสาวฤรินท์  ค้าข้าว",
+        "job_position": "นักวิชาการศึกษา",
+        "department": "ภาควิชาวิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 378,
+        "name": "นางทัศนี  อินทศร",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "ภาควิชาวิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 379,
+        "name": "นายนิรันดร์  ทรัพย์สมบูรณ์",
+        "job_position": "พนักงานเครื่องคอมพิวเตอร์",
+        "department": "ภาควิชาวิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 380,
+        "name": "นางพิมพ์ภาวรรณ  อินฟ้าแสง",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "ภาควิชาวิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 381,
+        "name": "นางนงลักษณ์  ชูทอง",
+        "job_position": "พนักงานสถานที่",
+        "department": "ภาควิชาวิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 382,
+        "name": "นางประยูร  วงศ์จันทร์",
+        "job_position": "นักการภารโรง",
+        "department": "ภาควิชาวิทยาการคอมพิวเตอร์",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 383,
+        "name": "นางสาวศุภรัตน์  ทองเหลือ",
+        "job_position": "ผู้จัดการฝ่ายผลิต",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 384,
+        "name": "นางสุวรรณา  สุปรีดี",
+        "job_position": "พนักงานฝ่ายผลิต",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 385,
+        "name": "นางสวีวรรณ  สายทองดี",
+        "job_position": "พนักงานฝ่ายผลิต",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 386,
+        "name": "นางสุกฤตา  คุ้มวงศ์",
+        "job_position": "พนักงานฝ่ายผลิต",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 387,
+        "name": "นางธณัฐฎา  คุ้มวงศ์",
+        "job_position": "พนักงานแคชเชียร์",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 388,
+        "name": "นางอณุภา  อยู่ยาง",
+        "job_position": "พนักงานแคชเชียร์",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 389,
+        "name": "นางมุกดา  อุตสาหะ",
+        "job_position": "พนักงานฝ่ายผลิต",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 390,
+        "name": "นายอำนาจ  พวงชะเอม",
+        "job_position": "พนักงานแคชเชียร์",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 391,
+        "name": "นางอรอนงค์  บุญสิทธิ์",
+        "job_position": "เจ้าหน้าที่บริหารงานทั่วไป",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 392,
+        "name": "นางวันดี  ศรีดี",
+        "job_position": "พนักงานบรรจุหีบห่อ",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 393,
+        "name": "นางสาวนิออน  บุญพิมพ์",
+        "job_position": "พนักงานขาย",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 394,
+        "name": "นางสาวศิริพร  อ่อนละออ",
+        "job_position": "พนักงานฝ่ายผลิต",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 395,
+        "name": "นางวิเชียร  ม่วงใหญ่เกาะ",
+        "job_position": "พนักงานบรรจุหีบห่อ",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 396,
+        "name": "นางเอี่ยมศรี  บุญส่ง",
+        "job_position": "พนักงานขาย",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 397,
+        "name": "นางสาวธนิสร  ธรรมทันตา",
+        "job_position": "พนักงานฝ่ายผลิต",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 398,
+        "name": "นางสุจินต์  ทวีแสง",
+        "job_position": "พนักงานขาย",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 399,
+        "name": "นายสุริยา  สวาย",
+        "job_position": "พนักงานขับรถยนต์",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 400,
+        "name": "นางเวียงวิไล  เทียนคำ",
+        "job_position": "หัวหน้างานทำความสะอาด",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 401,
+        "name": "นางสาวดวงอัมพร  อัทมี",
+        "job_position": "หัวหน้าฝ่ายผลิต",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 402,
+        "name": "นางสาวสาวิตรี  พลังสระน้อย",
+        "job_position": "พนักงานขาย",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 403,
+        "name": "นางรัดใจ  สุจริต",
+        "job_position": "พนักงานขาย",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 404,
+        "name": "นางสาวชื่นชม  เกิดขันหมาก",
+        "job_position": "หัวหน้าฝ่ายขาย",
+        "department": "โครงการผลิตและจำหน่ายผลิตภัณฑ์ขนมอบ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 405,
+        "name": "นางสาวอรวรรณ  ชื่นชม",
+        "job_position": "เจ้าหน้าที่ธุรการ",
+        "department": "โครงการผลิตน้ำดื่ม",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 406,
+        "name": "นายสำราญ  มั่นทัพ",
+        "job_position": "ผู้มีความรู้ความสามารถพิเศษ",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 407,
+        "name": "นางอารยา  แจ่มจันทร์",
+        "job_position": "ผู้มีความรู้ความสามารถพิเศษ",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 408,
+        "name": "นางเฟื่องฟูรัตน์  มุ่งทวีสินสุข",
+        "job_position": "ผู้มีความรู้ความสามารถพิเศษ",
+        "department": "เทคโนโลยีวัสดุและสิ่งทอ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 409,
+        "name": "นายธนัช  จิรวารศิริกุล",
+        "job_position": "อาจารย์ประจำตามสัญญา",
+        "department": "โครงการปริญญาตรีหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 410,
+        "name": "นายตวง  เธียรธนู",
+        "job_position": "อาจารย์ประจำตามสัญญา",
+        "department": "โครงการปริญญาตรีหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 411,
+        "name": "นายสรลักษณ์  วงษ์เสรี",
+        "job_position": "อาจารย์ประจำตามสัญญา",
+        "department": "โครงการปริญญาตรีหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 412,
+        "name": "นายภูวิศ  ทิพย์อาภากุล",
+        "job_position": "อาจารย์ประจำตามสัญญา",
+        "department": "โครงการปริญญาตรีหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 413,
+        "name": "นายสรวิชญ์  โมกขาว",
+        "job_position": "อาจารย์ประจำตามสัญญา",
+        "department": "โครงการปริญญาตรีหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 414,
+        "name": "นางสาวณัฐชยา  ปอวงศ์สว่าง",
+        "job_position": "อาจารย์ประจำตามสัญญา",
+        "department": "โครงการปริญญาตรีหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 415,
+        "name": "นางสาวแกมกาญจน์  ศุภบรรพต",
+        "job_position": "อาจารย์ประจำตามสัญญา",
+        "department": "โครงการปริญญาตรีหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 416,
+        "name": "นายสิทธิชัย  เทพไพฑูรย์",
+        "job_position": "อาจารย์ประจำตามสัญญา",
+        "department": "โครงการปริญญาตรีหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 417,
+        "name": "นายทินกรรต์  หล่อศรีศุภชัย",
+        "job_position": "อาจารย์ประจำตามสัญญา",
+        "department": "โครงการปริญญาตรีหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 418,
+        "name": "Mr.Rodd  Douglas  Miller",
+        "job_position": "อาจารย์ประจำตามสัญญา",
+        "department": "โครงการปริญญาตรีหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 419,
+        "name": "นายภณสุทธิ์ สุทธิประการ",
+        "job_position": "อาจารย์ประจำตามสัญญา",
+        "department": "โครงการปริญญาตรีหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 420,
+        "name": "Mr.Luis Castro Cordero",
+        "job_position": "อาจารย์ประจำตามสัญญา",
+        "department": "โครงการปริญญาตรีหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 421,
+        "name": "นางภาวิณี พรศาลนุวัฒน์ ตันอริยกุล",
+        "job_position": "อาจารย์ประจำตามสัญญา",
+        "department": "โครงการหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 422,
+        "name": "นางภาวดี  สมภักดี",
+        "job_position": "อาจารย์ประจำตามสัญญา",
+        "department": "โครงการหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 423,
+        "name": "Mr.Peter  Yong Chol Yu",
+        "job_position": "ผู้เชี่ยวชาญชาวต่างประเทศ",
+        "department": "โครงการปริญญาตรีหลักสูตรนานาชาติ",
+        "campus": "2",
+        "type": "nan",
+        "ict_id": null
+    },
+    {
+        "id": 424,
+        "name": "น.ส.ฑัณธิดา  งามขำ",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 425,
+        "name": "นายสายตุลา  ณ ระนอง",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 426,
+        "name": "นายกานต์ณัฐ ณ บางช้าง",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 427,
+        "name": "นายรวินทร์  ยังน้อย",
+        "job_position": "อาจารย์",
+        "department": "คณิตศาสตร์และสถิติ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 428,
+        "name": "นายชุลพล  วิชิตธนาคม",
+        "job_position": "อาจารย์",
+        "department": "ฟิสิกส์",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 429,
+        "name": "น.ส.จิรภา  ตั้งศรีตระกูล",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีวัสดุและสิ่งทอ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 430,
+        "name": "น.ส.จิราพร  หุตะกมล",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีวัสดุและสิ่งทอ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 431,
+        "name": "นายภูภิภัทร  ใจแก้ว",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีชีวภาพ",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    },
+    {
+        "id": 432,
+        "name": "น.ส.ณัฐา  จริยภมรกุร",
+        "job_position": "อาจารย์",
+        "department": "เทคโนโลยีการเกษตร",
+        "campus": "2",
+        "type": "3",
+        "ict_id": null
+    }
+]

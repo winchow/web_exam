@@ -1,0 +1,715 @@
+<div class="headTop toptop" >
+{% include 'base1.html' %}
+<div>
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" >
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="{% static 'home/uikit-3.0.0-beta.40/css/duoWork.css' %}" />
+  <script src="{% static 'home/uikit-3.0.0-beta.40/js/duoWork.js' %}"></script>
+  <link href="https://fonts.googleapis.com/css?family=Kanit&amp;subset=thai" rel="stylesheet">
+
+</head>
+
+<body style="font-family: Kanit;overflow: hidden; margin-top: -10px;transform: scale(1);" ><br>
+{% block content %}
+
+
+
+{% if request.user.is_authenticated %}
+  {% if check != '1' %}
+
+
+
+
+  <div class="title">ระบบเบิกค่าตรวจข้อสอบ</div><br>
+  <div class="py-1" >
+      <div class="row">
+        <div class="col-md-12">
+          <ul class="nav nav-tabs" >
+            <li class="nav-item">
+              <a href="{% url 'LacListView' %}"class="active nav-link"><i class="fa fa-home fa-home"></i>&nbsp;Home</a>
+            </li>
+            <li class="">
+              <a class="nav-link" href="{% url 'SubjectListView' %}">Download </a>
+
+            </li>
+            
+          </ul>
+        </div>
+      </div>
+    </div> 
+
+  <form method="post" action="/saved/" autocomplete="on">
+  {% csrf_token %}
+  {{ form }}
+
+    <div class="container" >
+              <div class="row border-primary">
+                  <div class="con1 c0"> 
+                    <label class="c1 ">สาขาวิชา &nbsp;&nbsp;</label>
+                        <select class="form-control widthSelect px2" name = "section" id="section">
+                        <option class="form-control border border-info" value="0">เคมี</option>
+                        
+                        <option class="form-control border border-info" value="1">สิ่งทอ</option>
+                        <option class="form-control border border-info" value="2">ฟิสิกส์</option>
+                        <option class="form-control border border-info" value="3">เทคโนโลยีชนบท</option>
+                        <option class="form-control border border-info" value="4">เทคโนโลยีชีวภาพ</option>
+                        <option class="form-control border border-info" value="5">เทคโนโลยีการเกษตร</option>
+                        <option class="form-control border border-info" value="6">คณิตศาสตร์และสถิติ</option>
+                        <option class="form-control border border-info" value="7">วิทยาการคอมพิวเตอร์</option>
+                        <option class="form-control border border-info" value="8">วิทยาศาสตร์สิ่งแวดล้อม</option>
+                        <option class="form-control border border-info" value="9">วิทยาศาสตร์และเทคโนโลยีอาหาร</option>
+                        
+                        </select>
+                  </div>              
+                  <div class="con1"> 
+                    <label class="c1">รหัสวิชา &nbsp;&nbsp;</label>
+                    <input name = "sid" id= "sid" type="Course" class="form-control border border-info px2" placeholder = "CS285" required> 
+                  </div>
+                <div class="con2"> 
+                  <label class="c1">ปีการศึกษา</label>
+                  <input type="Course" id="sid" class="form-control border border-info px2" placeholder = "2/2560" name="academic_year" required >
+                </div>
+              
+
+                <div class="con2">
+                  <label class="c1">ระดับการศึกษา</label>
+                <div class="con3"> 
+                  <input type="radio" checked="checked" name="radio" id="radio" value="0"><label>&nbspปริญญาตรี</label>
+                  <span class="checkmark "></span>
+                </div>
+                <div>
+                <div class="con3"> 
+                  <label class="c1" style="margin-left: 3px;"></label>
+                  <input type="radio"  name="radio" id = "radio" value="1"><label>&nbspปริญญาโท</label>
+                </div>
+                
+                <div class="con3" style="margin-left: 3px;"> 
+                  <label class="c1"></label>
+                  <input type="radio"  name="radio" id = "radio" value="2"><label>&nbspปริญญาเอก</label>
+                </div>
+                </div>
+                </div>   
+              </div>
+
+
+              <div class="row border-primary" >
+                <div class="con2">
+                  <label class="c1">ประเภทข้อสอบ</label> 
+                  <select class="form-control widthSelect px2" name = "test_type">
+                        <option class="form-control border border-info" value="0">อัตนัย</option>
+                        <option class="form-control border border-info" value="1">ปรนัย</option>
+                        <option class="form-control border border-info" value="2">อัตนัย+ปรนัย</option>
+                        <option class="form-control border border-info" value="3">สัมภาษณ์+ปฏิบัติ</option>
+                        </select> </div>
+              </div>
+
+              <div class="row border-primary">
+                <div class="con2">
+                  <div class="form-group"> 
+                    <label for="exampleInputEmail1 " class="c1">ประเภทการสอน</label> 
+                    <select class="form-control widthSelect px2" name = "instructor_type">               
+                      <option value="0">เป็นวิชาสอนท่านเดียว</option>
+                      <option value="1">เป็นวิชาสอนร่วม</option>
+                    </select> 
+                </div>
+              </div> 
+                 <div class="con2 con5"> 
+                  <label class="c1">จำนวนนักศึกษา</label>
+                  <input type="Course" id="TotalStu1" class="form-control border border-info px2" placeholder = "จำนวนนักศึกษาที่เข้าสอบ(คน)" name="TotalStu1" value="{{current_name}}" type="number" min="0" >
+                </div>   
+              </div>
+<!--                       <td>
+                      <input class="form-control text-center test3" id="TotalStu2" name="TotalStu2" size="8" value="{{current_name}}" type="number" min="0" >
+                      </td> -->
+               
+              </div>
+
+              </div>
+
+<!-- table  -->
+    <div class="conn">
+      <label for="exampleInputEmail1"></label> 
+      <div class="cc" >
+
+                <table class="table" id="tbExp" action="" method = "POST" >
+                  <tbody>
+                    <tr>
+                      <th class="text-center">
+                        <br>ลำดับ</th>
+<!--                       <th class="text-center">
+                        <br>จำนวนนักศึกษา
+                        <br>&nbsp;ที่เข้าสอบ(คน)</th> -->
+                      <th class="text-center" text-align = "center">
+                        <br>ชื่อ-นามสกุล ผู้ตรวจข้อสอบ</th>
+                      <th style="text-align: center;">สัดส่วนการตรวจข้อสอบ<br>ของอาจารย์แต่ละท่าน<br>ใน 1 วิชา(คิดเป็น %)</th>
+                    </tr>
+                    <tr >
+                      <td >  
+                        <input class="text-center nobackG"  id="num" value="1" size="4" readonly >                 
+                      </td>                   
+<!--                       <td>
+                      <input class="form-control text-center test3" id = "TotalStu1" name="TotalStu1" size="8" value="{{current_name}}" type="number" min="0" required >
+                      </td> -->
+                      <td > 
+                        <div class="autocomplete">
+                        <input id="myInput1" class="form-control" name="myInput1" size="8"  type="text" value="{{ current_name }}" >
+                        </div>
+                     
+                      </td>
+                      <td> 
+                        <input class="form-control test2" size = "4" name="ratio1" value="{{ current_name }}" type="number" min="0" max="100"  required>
+                                   
+                      </td>
+                      </tr>
+                    <tr>
+                      <td>  
+                        <input class=" text-center nobackG"  id="num" value="2" size="4" readonly>                   
+                      </td>
+
+                      <td >  
+                        <div class="autocomplete" >
+                        <input id="myInput2" class="form-control" name="myInput2" size="8"  type="text" value="{{ current_name }}" >
+                        </div>
+                      </td>
+                      <td> 
+                        <input class="form-control test2" size = "4" name="ratio2" value="{{ current_name }}" type="number" min="0" max="100" >
+                      </td>
+                     </tr>
+                    <tr>
+                      <td>  
+                        <input class=" text-center"  id="num" value="3" size="4" readonly>
+                      </td>
+<!--                       <td>
+                      <input class="form-control text-center test3" name = "TotalStu3" id="TotalStu3" value="{{current_name}}" size="8" type="number" min="0" >
+                      </td> -->
+                      <td >                    
+                        
+                        <div class="autocomplete" >
+                        <input id="myInput3" class="form-control" name="myInput3" size="8" type="text"
+                        value="{{ current_name }}"
+                         >
+                        </div>
+                     
+                      </td>
+                      <td> 
+                        <input class="form-control test2" size = "4" id="ratio3" name="ratio3" value="{{ current_name }}" type="number" min="0" max="100" > 
+                      </td> 
+                    </tr>
+                    <tr>
+                      <td>  
+                        <input class="text-center"  id="num" value="4" size="4" readonly>                   
+                      </td>
+<!--                       <td>
+                      <input class="form-control text-center test3" id="TotalStu4" name="TotalStu4" size="8" value="{{current_name}}" type="number" min="0" >
+                      </td> -->
+                      <td >                    
+                      
+                        <div class="autocomplete" >
+                        <input id="myInput4" class="form-control" name="myInput4" size="8" type="text"
+                        value="{{ current_name }}"
+                         >
+                        </div>
+                      
+                      </td>
+                      <td> 
+                      <input class="form-control test2" size = "4" id="ratio4" name="ratio4" value="{{ current_name }}" type="number" min="0" max="100" >
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>  
+                      
+                        <input class="text-center"  id="num" value="5" size="4" readonly>
+                                                           
+                      </td>
+<!--                       <td>
+                      <input class="form-control text-center test3" name = "TotalStu5" id="TotalStu5" size="8" value="{{current_name}}" type="number" min="0" >
+                      </td> -->
+                      <td >                    
+                       
+                        <div class="autocomplete" >
+                        <input id="myInput5" class="form-control" name="myInput5" size="8"type="text"
+                        value="{{ current_name }}"
+                         >
+                        </div>
+                      
+                      </td>
+                      <td> 
+                       
+                          <input class="form-control test2" size = "4" id="ratio5" name = "ratio5" value="{{ current_name }}" type="number" min="0" max="100" >
+                                  
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td>  
+                      
+                        <input class="text-center"  id="num" value="6" size="4" readonly>
+                                                          
+                      </td>
+<!--                       <td>
+                      <input class="form-control text-center test3" name="TotalStu6" id="TotalStu6" size="8" value="{{current_name}}" type="number" min="0" >
+                      </td> -->
+                      <td >                    
+                      
+                        <div class="autocomplete" >
+                        <input id="myInput6" class="form-control" name="myInput6" size="8"type="text"
+                        value="{{ current_name }}"
+                         >
+                        </div>
+                      
+                      </td>
+                      <td> 
+                         
+                          <input class="form-control test2" size = "4" id="ratio6" name="ratio6" value="{{ current_name }}" type="number" min="0" max="100" >
+                                     
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td>  
+                      
+                        <input class="text-center"  id="num" value="7" size="4" readonly>
+                                                          
+                      </td>
+<!--                       <td>
+                      <input class="form-control text-center test3" name = "TotalStu7" id="TotalStu7" size="8" value="{{current_name}}"  type="number" min="0" >
+                      </td> -->
+                      <td >                    
+                     
+                        <div class="autocomplete" >
+                        <input id="myInput7" class="form-control" name="myInput7" size="8" type="text" value="{{ current_name }}"
+                        >
+                        </div>
+                     
+                      </td>
+                      <td> 
+                       
+                          <input class="form-control test2" size = "4" id="ratio7" name="ratio7"value="{{ current_name }}" type="number" min="0" max="100"  >
+                                     
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td>  
+                      
+                        <input class="text-center"  id="num" value="8" size="4" readonly>
+                                                          
+                      </td>
+<!--                       <td>
+                      <input class="form-control text-center test3" name="TotalStu8" id="TotalStu8" size="8" value="{{current_name}}" type="number" min="0" >
+                      </td> -->
+                      <td >                    
+                      
+                        <div class="autocomplete" >
+                        <input id="myInput8" class="form-control" name="myInput8" size="8" type="text"
+                        value="{{ current_name }}"
+                         >
+                        </div>
+                     
+                      </td>
+                      <td> 
+                         
+                          <input class="form-control test2" size = "4" id="ratio8" name="ratio8" value="{{ current_name }}" type="number" min="0" max="100" >
+                                     
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td>  
+                      
+                        <input class="text-center"  id="num" value="9" size="4" readonly>
+                                                           
+                      </td>
+<!--                       <td>
+                      <input class="form-control text-center test3" name = "TotalStu9" id="TotalStu9" size="8" value="{{current_name}}" type="number" min="0" >
+                      </td> -->
+                      <td >                    
+                      
+                        <div class="autocomplete" >
+                        <input id="myInput9" class="form-control" name="myInput9" size="8"type="text"
+                        value="{{ current_name }}"
+                         >
+                        </div>
+                      
+                      </td>
+                      <td> 
+                          <input class="form-control test2" size = "4" id="ratio9" name="ratio9"value="{{ current_name }}" type="number" min="0" max="100" >             
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td>  
+                      
+                        <input class="text-center"  id="num" value="10" size="4" readonly>
+                                                          
+                      </td>
+
+                      <td >                    
+                       
+                        <div class="autocomplete" >
+                        <input id="myInput10" class="form-control" name="myInput10" size="8"type="text" value="{{ current_name }}">
+                        </div>
+                      
+                      </td>
+                      <td> 
+                         
+                          <input class="form-control test2" size = "4" id="ratio10" name="ratio10"value="{{ current_name }}" type="number" min="0" max="100" >
+                                    
+                      </td>
+                    </tr> 
+
+                     <tr>
+                      <td>  
+                      
+                        <input class="text-center"  id="num" value="11" size="4" readonly>
+                                                          
+                      </td>
+
+                      <td >                    
+                       
+                        <div class="autocomplete" >
+                        <input id="myInput11" class="form-control" name="myInput11" size="8"type="text" value="{{ current_name }}">
+                        </div>
+                      
+                      </td>
+                      <td> 
+                         
+                          <input class="form-control test2" size = "4" id="ratio11" name="ratio11"value="{{ current_name }}" type="number" min="0" max="100" >
+                                    
+                      </td>
+                    </tr> 
+
+                     <tr>
+                      <td>  
+                      
+                        <input class="text-center"  id="num" value="12" size="4" readonly>
+                                                          
+                      </td>
+
+                      <td >                    
+                       
+                        <div class="autocomplete" >
+                        <input id="myInput12" class="form-control" name="myInput10" size="8"type="text" value="{{ current_name }}">
+                        </div>
+                      
+                      </td>
+                      <td> 
+                         
+                          <input class="form-control test2" size = "4" id="ratio12" name="ratio12"value="{{ current_name }}" type="number" min="0" max="100" >
+                                    
+                      </td>
+                    </tr> 
+
+                     <tr>
+                      <td>  
+                      
+                        <input class="text-center"  id="num" value="13" size="4" readonly>
+                                                          
+                      </td>
+
+                      <td >                    
+                       
+                        <div class="autocomplete" >
+                        <input id="myInput13" class="form-control" name="myInput13" size="8"type="text" value="{{ current_name }}">
+                        </div>
+                      
+                      </td>
+                      <td> 
+                         
+                          <input class="form-control test2" size = "4" id="ratio13" name="ratio13"value="{{ current_name }}" type="number" min="0" max="100" >
+                                    
+                      </td>
+                    </tr> 
+
+                     <tr>
+                      <td>  
+                      
+                        <input class="text-center"  id="num" value="14" size="4" readonly>
+                                                          
+                      </td>
+
+                      <td >                    
+                       
+                        <div class="autocomplete" >
+                        <input id="myInput14" class="form-control" name="myInput14" size="8"type="text" value="{{ current_name }}">
+                        </div>
+                      
+                      </td>
+                      <td> 
+                         
+                          <input class="form-control test2" size = "4" id="ratio14" name="ratio10"value="{{ current_name }}" type="number" min="0" max="100" >
+                                    
+                      </td>
+                    </tr> 
+
+                     <tr>
+                      <td>  
+                      
+                        <input class="text-center"  id="num" value="15" size="4" readonly>
+                                                          
+                      </td>
+
+                      <td >                    
+                       
+                        <div class="autocomplete" >
+                        <input id="myInput15" class="form-control" name="myInput15" size="8"type="text" value="{{ current_name }}">
+                        </div>
+                      
+                      </td>
+                      <td> 
+                         
+                          <input class="form-control test2" size = "4" id="ratio15" name="ratio15"value="{{ current_name }}" type="number" min="0" max="100" >
+                                    
+                      </td>
+                    </tr> 
+                
+                </table>
+              </tbody>
+           
+            <input class="btn btn-block btn-lg text-white btn-success con4" type="submit" value=" Save "  >
+            </div>
+            </form>
+ </div>
+<!--  <div class="a1a2" style="width: 117.42%;margin-left: -10%">
+  {% include 'base2.html' %}
+  </div>  --> 
+ {% endif %}
+
+{% else %}
+
+<div class="py-3" >
+      <div class="card">
+        <div class="card-body px-5">
+          <div class="row border-primary">
+            <div class="col-md">
+              <form class="">
+                <div class="form-group text-center"> 
+                <label class="h1" style="margin-left: 15%;">Please login...</label>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+</div>
+
+
+ {% endif %}
+
+<!--Make sure the form has the autocomplete function switched off:-->
+ 
+{% endblock %}
+
+
+
+
+
+</body>
+</html>  
+
+
+<body class="foot">
+      {% include 'base2.html' %}
+</body>
+
+
+<script type="text/javascript">
+  function autocomplete(inp, arr) {
+  /*the autocomplete function takes two arguments,
+  the text field element and an array of possible autocompleted values:*/
+  var currentFocus;
+  /*execute a function when someone writes in the text field:*/
+  inp.addEventListener("input", function(e) {
+      var a, b, i, val = this.value;
+      /*close any already open lists of autocompleted values*/
+      closeAllLists();
+      if (!val) { return false;}
+      currentFocus = -1;
+      /*create a DIV element that will contain the items (values):*/
+      a = document.createElement("DIV");
+      a.setAttribute("id", this.id + "autocomplete-list");
+      a.setAttribute("class", "autocomplete-items");
+      /*append the DIV element as a child of the autocomplete container:*/
+      this.parentNode.appendChild(a);
+      /*for each item in the array...*/
+      for (i = 0; i < arr.length; i++) {
+        /*check if the item starts with the same letters as the text field value:*/
+        /* Compareeeeeeeeeeee letter index 5 == database*/
+        if (arr[i].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
+          /*create a DIV element for each matching element:*/
+          b = document.createElement("DIV");
+          /*make the matching letters bold:*/
+          b.innerHTML = "<strong>" + arr[i].substr(0, val.length) + "</strong>";
+          b.innerHTML += arr[i].substr(val.length);
+          /*insert a input field that will hold the current array item's value:*/
+          b.innerHTML += "<input type='hidden' value='" + arr[i] + "'>";
+          /*execute a function when someone clicks on the item value (DIV element):*/
+          b.addEventListener("click", function(e) {
+              /*insert the value for the autocomplete text field:*/
+              inp.value = this.getElementsByTagName("input")[0].value;
+              /*close the list of autocompleted values,
+              (or any other open lists of autocompleted values:*/
+              closeAllLists();
+          });
+          a.appendChild(b);
+        }else if(arr[i].substr(1, val.length).toUpperCase() == val.toUpperCase()) {
+          /*create a DIV element for each matching element:*/
+          b = document.createElement("DIV");
+          /*make the matching letters bold:*/
+          b.innerHTML = "<strong>" + arr[i].substr(0, val.length) + "</strong>";
+          b.innerHTML += arr[i].substr(val.length);
+          /*insert a input field that will hold the current array item's value:*/
+          b.innerHTML += "<input type='hidden' value='" + arr[i] + "'>";
+          /*execute a function when someone clicks on the item value (DIV element):*/
+          b.addEventListener("click", function(e) {
+              /*insert the value for the autocomplete text field:*/
+              inp.value = this.getElementsByTagName("input")[0].value;
+              /*close the list of autocompleted values,
+              (or any other open lists of autocompleted values:*/
+              closeAllLists();
+          });
+          a.appendChild(b);
+        }else if(arr[i].substr(2, val.length).toUpperCase() == val.toUpperCase()) {
+          /*create a DIV element for each matching element:*/
+          b = document.createElement("DIV");
+          /*make the matching letters bold:*/
+          b.innerHTML = "<strong>" + arr[i].substr(0, val.length) + "</strong>";
+          b.innerHTML += arr[i].substr(val.length);
+          /*insert a input field that will hold the current array item's value:*/
+          b.innerHTML += "<input type='hidden' value='" + arr[i] + "'>";
+          /*execute a function when someone clicks on the item value (DIV element):*/
+          b.addEventListener("click", function(e) {
+              /*insert the value for the autocomplete text field:*/
+              inp.value = this.getElementsByTagName("input")[0].value;
+              /*close the list of autocompleted values,
+              (or any other open lists of autocompleted values:*/
+              closeAllLists();
+          });
+          a.appendChild(b);
+        }else if(arr[i].substr(3, val.length).toUpperCase() == val.toUpperCase()) {
+          /*create a DIV element for each matching element:*/
+          b = document.createElement("DIV");
+          /*make the matching letters bold:*/
+          b.innerHTML = "<strong>" + arr[i].substr(0, val.length) + "</strong>";
+          b.innerHTML += arr[i].substr(val.length);
+          /*insert a input field that will hold the current array item's value:*/
+          b.innerHTML += "<input type='hidden' value='" + arr[i] + "'>";
+          /*execute a function when someone clicks on the item value (DIV element):*/
+          b.addEventListener("click", function(e) {
+              /*insert the value for the autocomplete text field:*/
+              inp.value = this.getElementsByTagName("input")[0].value;
+              /*close the list of autocompleted values,
+              (or any other open lists of autocompleted values:*/
+              closeAllLists();
+          });
+          a.appendChild(b);
+        }else if(arr[i].substr(4, val.length).toUpperCase() == val.toUpperCase()) {
+          /*create a DIV element for each matching element:*/
+          b = document.createElement("DIV");
+          /*make the matching letters bold:*/
+          b.innerHTML = "<strong>" + arr[i].substr(0, val.length) + "</strong>";
+          b.innerHTML += arr[i].substr(val.length);
+          /*insert a input field that will hold the current array item's value:*/
+          b.innerHTML += "<input type='hidden' value='" + arr[i] + "'>";
+          /*execute a function when someone clicks on the item value (DIV element):*/
+          b.addEventListener("click", function(e) {
+              /*insert the value for the autocomplete text field:*/
+              inp.value = this.getElementsByTagName("input")[0].value;
+              /*close the list of autocompleted values,
+              (or any other open lists of autocompleted values:*/
+              closeAllLists();
+          });
+          a.appendChild(b);
+        }
+      }
+  });
+  /*execute a function presses a key on the keyboard:*/
+  inp.addEventListener("keydown", function(e) {
+      var x = document.getElementById(this.id + "autocomplete-list");
+      if (x) x = x.getElementsByTagName("div");
+      if (e.keyCode == 40) {
+        /*If the arrow DOWN key is pressed,
+        increase the currentFocus variable:*/
+        currentFocus++;
+        /*and and make the current item more visible:*/
+        addActive(x);
+      } else if (e.keyCode == 38) { //up
+        /*If the arrow UP key is pressed,
+        decrease the currentFocus variable:*/
+        currentFocus--;
+        /*and and make the current item more visible:*/
+        addActive(x);
+      } else if (e.keyCode == 13) {
+        /*If the ENTER key is pressed, prevent the form from being submitted,*/
+        e.preventDefault();
+        if (currentFocus > -1) {
+          /*and simulate a click on the "active" item:*/
+          if (x) x[currentFocus].click();
+        }
+      }
+  });
+  function addActive(x) {
+    /*a function to classify an item as "active":*/
+    if (!x) return false;
+    /*start by removing the "active" class on all items:*/
+    removeActive(x);
+    if (currentFocus >= x.length) currentFocus = 0;
+    if (currentFocus < 0) currentFocus = (x.length - 1);
+    /*add class "autocomplete-active":*/
+    x[currentFocus].classList.add("autocomplete-active");
+  }
+  function removeActive(x) {
+    /*a function to remove the "active" class from all autocomplete items:*/
+    for (var i = 0; i < x.length; i++) {
+      x[i].classList.remove("autocomplete-active");
+    }
+  }
+  function closeAllLists(elmnt) {
+    /*close all autocomplete lists in the document,
+    except the one passed as an argument:*/
+    var x = document.getElementsByClassName("autocomplete-items");
+    for (var i = 0; i < x.length; i++) {
+      if (elmnt != x[i] && elmnt != inp) {
+        x[i].parentNode.removeChild(x[i]);
+      }
+    }
+  }
+  /*execute a function when someone clicks in the document:*/
+  document.addEventListener("click", function (e) {
+      closeAllLists(e.target);
+      });
+}
+
+/*An array containing all the country names in the world:*/
+
+var myDjangoList = (("{{thing_list |safe}}").replace(/&(l|g|quo)t;/g, function(a,b){
+            return {
+                l   : '<',
+                g   : '>',
+                quo : '"'
+            }[b];
+        }));
+
+myDjangoList = myDjangoList.replace(/u'/g, '\'')
+myDjangoList = myDjangoList.replace(/'/g, '\"')
+
+myData = JSON.parse( myDjangoList );
+/*initiate the autocomplete function on the "myInput" element, and pass along the countries array as possible autocomplete values:*/
+autocomplete(document.getElementById("myInput1"), myData);
+autocomplete(document.getElementById("myInput2"), myData);
+autocomplete(document.getElementById("myInput3"), myData);
+autocomplete(document.getElementById("myInput4"), myData);
+autocomplete(document.getElementById("myInput5"), myData);
+autocomplete(document.getElementById("myInput6"), myData);
+autocomplete(document.getElementById("myInput7"), myData);
+autocomplete(document.getElementById("myInput8"), myData);
+autocomplete(document.getElementById("myInput9"), myData);
+autocomplete(document.getElementById("myInput10"), myData);
+</script>

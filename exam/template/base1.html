@@ -1,0 +1,61 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    {% load staticfiles %}
+    
+    <link rel="stylesheet" type="text/css" href="{% static 'home/uikit.min.css' %}" />
+    <link href="https://fonts.googleapis.com/css?family=Kanit&amp;subset=thai" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{% static 'home/hamburger.css' %}" />
+    <link rel="stylesheet" type="text/css" href="{% static 'home/uikit-3.0.0-beta.40/css/duoWork.css' %}" />
+    <script src="{% static 'home/uikit.min.js' %}"></script>
+    <style>
+    </style>
+</head>
+<body style="font-family: Kanit;margin-top: -40px; margin-top: 20px;">
+
+  <!-- style="  font-family: Arial, sans-serif; font-size : 15px;" -->
+
+    <div class="uk-position-relative" style="position: fixed;top: 0; overflow: hidden; " >
+        <div style="position: fixed; top:0 ; z-index: 1;width: 100%; ">
+        <nav class="uk-navbar-container" uk-navbar="mode: click" style="background-color:white;"height: 0.5%;">
+
+            <div class="uk-navbar-left" >
+                <a href="">
+                    <img src="{% static 'home/pictures/b1.png' %}" style="width:290px; margin: 10px;margin-left: 10%;min-width: 100px;margin-right: 30px;min-height: 40px;" />
+                </a>
+            </div>
+            <div class="uk-navbar-right" style="display: inline-block;">
+                {% if request.user.is_authenticated %}
+                    <article class="uk-comment">
+                    <header class="uk-comment-header uk-grid-medium uk-flex-middle" uk-grid style="float: right;">
+                        <div class="uk">
+                        <!-- <img class="uk1" src="{% static 'img/avatar.png' %}" alt=""> -->
+                        
+                        <div class="uk2">
+                        <h4 class="button2" style="color:gray;font-weight: bold"><a class="uk-link-reset" href="#" > {{user.username}} </a></h4>
+                        <ul class="button3">
+                            <li><a href="{% url 'logout' %}" class="lgout">Log out</a></li>
+                        </ul>
+                        </div>
+                        </div>
+                    </header>
+                    </div>
+                {% else %}
+                    <form action="{% url 'social:begin' 'tu' %}">
+                    <input class="button1" type="submit" value='TU LOGIN' >
+                    </form>
+                {% endif %}
+            </div>
+        </nav>
+    </div>
+    <br><br><br><br>
+</body>
+</html>
+<style type="text/css">
+
+</style>
