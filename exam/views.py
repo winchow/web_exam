@@ -174,6 +174,7 @@ def saved(request):
     print("************************************************************************************")
     print()
     print(ratio1)
+   
     if test_type == '0' and Degree == '0': ##4bht/hour          
         pss='จำนวน น.ศ.'+str(student)+' คน อ.สอนร่วม '+str(amount)+' คน('+str(student)+'*3*4 =' +str(int(student)*3*4)+')'
     elif test_type == '0' and (Degree == '1' or Degree == '2'): ##6bht/hour                     
@@ -341,7 +342,30 @@ def export(request):
         print('**************************45')
         a = request.POST.get("academic_year")
         aa = request.POST.get("section")
-        b = 'attachment; filename='+ a +"__"+ aa+".xls"
+        subj = ''
+        if aa == '0':
+            subj = 'Chem'
+        elif aa == '1':
+            subj = 'Textiles'
+        elif aa == '2':
+            subj = 'Physic'
+        elif aa == '3':
+            subj = 'Rural_technology'
+        elif aa == '4':
+            subj = 'Biotechnology'
+        elif aa == '5':
+            subj = 'Agricultural_Technology'
+        elif aa == '6':
+            subj = 'Math'
+        elif aa == '7':
+            subj = 'Com-Sci'
+        elif aa == '8':
+            subj = 'Environmental_Science'
+        elif aa == '9':
+            subj = 'Food_Science'
+
+
+        b = 'attachment; filename='+ a +"__"+ subj+".xls"
         print(a +"Test:"+ aa)
 
         # check whether it's valid:
@@ -447,6 +471,29 @@ def export(request):
 
                     elif row[4] == '3' and  (row[6] == '1' or row[6] == '2'): ##2bht/hour      
                             ws.write(row_num,col_num,int(((row[2]*2)*float(row[1]))/100),font_style)
+                elif col_num == 9:
+                    
+                    if row[9] == '0':
+                        ws.write(row_num, col_num, 'เคมี', font_style)
+                    elif row[9] == '1':
+                        ws.write(row_num, col_num, 'สิ่งทอ', font_style)
+                    elif row[9] == '2':
+                        ws.write(row_num, col_num, 'ฟิสิกส์', font_style)
+                    elif row[9] == '3':
+                        ws.write(row_num, col_num, 'เทคโนโลยีชนบท', font_style)
+                    elif row[9] == '4':
+                        ws.write(row_num, col_num, 'เทคโนโลยีชีวภาพ', font_style)
+                    elif row[9] == '5':
+                        ws.write(row_num, col_num, 'เทคโนโลยีการเกษตร', font_style)
+                    elif row[9] == '6':
+                        ws.write(row_num, col_num, 'คณิตศาสตร์และสถิติ', font_style)
+                    elif row[9] == '7':
+                        ws.write(row_num, col_num, 'วิทยาการคอมพิวเตอร์', font_style)
+                    elif row[9] == '8':
+                        ws.write(row_num, col_num, 'วิทยาศาสตร์สิ่งแวดล้อม', font_style)
+                    elif row[9] == '9':
+                        ws.write(row_num, col_num, 'วิทยาศาสตร์และเทคโนโลยีอาหาร', font_style)
+
 
                 # elif col_num == 10:
                     # if amount!=1:
