@@ -17,7 +17,7 @@ from django.contrib.auth.decorators import login_required
 import requests
 from django.contrib.auth.signals import user_logged_in
 
-
+from django.shortcuts import redirect
 
 @login_required
 # def social_auth(sender, user, request, **kwargs):
@@ -28,28 +28,32 @@ def social_auth(request):
         'STAFF' : '2',
         'INSTRUCTOR' : '3',
     }
+
     print(type(user),user)
     prov = user.social_auth.filter(provider='tu')
+
     if prov.exists():
         data    = prov[0].extra_data
         headers = {
             "Authorization": "Bearer {}".format(data['access_token'])
         }
         api  = requests.get('https://api.tu.ac.th/api/me/', headers=headers).json()
-        if api['role'] == ROLE['STUDENT']:
-            print("API : ", api)
-            print("api['username'] :", api['username'])
-            print("api['role'] :", api['role'])
-            index   = User.objects.all().filter(username = api['username'])[0]
-            ckRole  =  api['role']
-        elif api['role'] == ROLE['STAFF']:
-            ckRole = '2' 
-        else:
-            ckRole = '3' 
+        try:
+            if api['role'] == ROLE['STUDENT']:
+                print("API : ", api)
+                print("api['username'] :", api['username'])
+                print("api['role'] :", api['role'])
+                index   = User.objects.all().filter(username = api['username'])[0]
+                ckRole  =  api['role']
+            elif api['role'] == ROLE['STAFF']:
+                ckRole = '2' 
+            else:
+                ckRole = '3' 
+        except KeyError  as e:
+                return redirect('/logout')
+  
 
     return ckRole
-# user_logged_in.connect(social_auth)
-
 
 def jo(request):
 	data ='static/scidb_staff.json'
