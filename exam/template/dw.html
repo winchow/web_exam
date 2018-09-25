@@ -1,6 +1,4 @@
-<div class="headTop " >
-{% include 'base1.html' %}
-<div>
+{% extends 'base1.html' %}
 {% load static %}
 <!DOCTYPE html>
 <html>
@@ -21,7 +19,7 @@
 <br>
 {% block content %}
 {% if request.user.is_authenticated %}
-<div class="title">ระบบเบิกค่าตรวจข้อสอบ</div><br>
+
 
 
   <div class="py-1" >
@@ -126,4 +124,3 @@
 </body>
 </html>  
 
-{% include 'base2.html' %}

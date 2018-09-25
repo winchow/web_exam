@@ -1,6 +1,6 @@
-<div class="headTop toptop" >
-{% include 'base1.html' %}
-<div>
+
+{% extends 'base1.html' %}
+
 {% load static %}
 
 <!DOCTYPE html>
@@ -22,12 +22,11 @@
 
 
 {% if request.user.is_authenticated %}
-  {% if check != '1' %}
+  {% if check == '1' %}
 
 
 
 
-  <div class="title">ระบบเบิกค่าตรวจข้อสอบ</div><br>
   <div class="py-1" >
       <div class="row">
         <div class="col-md-12">
@@ -122,7 +121,7 @@
               </div> 
                  <div class="con2 con5"> 
                   <label class="c1">จำนวนนักศึกษา</label>
-                  <input type="Course" id="TotalStu1" class="form-control border border-info px2" placeholder = "จำนวนนักศึกษาที่เข้าสอบ(คน)" name="TotalStu1" value="{{current_name}}" type="number" min="0" >
+                  <input type="Course" id="TotalStu1" class="form-control border border-info px2" placeholder = "จำนวนนักศึกษาที่เข้าสอบ(คน)" name="TotalStu1" value="{{current_name}}" type="number" min="0" required>
                 </div>   
               </div>
 <!--                       <td>
@@ -159,7 +158,7 @@
                       </td> -->
                       <td > 
                         <div class="autocomplete">
-                        <input id="myInput1" class="form-control" name="myInput1" size="8"  type="text" value="{{ current_name }}" >
+                        <input id="myInput1" class="form-control" name="myInput1" size="8"  type="text" value="{{ current_name }}" required >
                         </div>
                      
                       </td>
@@ -514,10 +513,6 @@
 </body>
 </html>  
 
-
-<body class="foot">
-      {% include 'base2.html' %}
-</body>
 
 
 <script type="text/javascript">

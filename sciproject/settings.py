@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '-*zw^9^+ofz0*uc4v5sfg)@a2r3e(v2tm+#x@nsbr#iq1fzw)m'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 SOCIAL_AUTH_TU_KEY = 'B5Tj2w67duvh526HFKfq56r26KZDLqErOAhJFSHZ'
 SOCIAL_AUTH_TU_SECRET = 'MqeaPPYwDavT7btUqhFr2Hp8gnfHBlh4WJicA4quccxPnESmvoCjzkuNeOcx2Sdlc0KpLc7sxYqvQaJnkKG59OT7jjdko85tdIotle8M71ngm9sbspMZwINspGhjSG45'
