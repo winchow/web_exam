@@ -16,17 +16,4 @@ services:
       - .exam/media/:/code/media/
 
     depends_on:
-      - db_publicnews
-
-  nginx_exam:
-    container_name: nginx_exam
-    image: nginx:latest
-    ports:
-      - "80:80"
-    volumes:
-      - ./nginx/:/etc/nginx/conf.d/
-      - /var/www/public/static/:/var/www/public/static/
-      - ./exam/media/:/code/media/
-      
-    depends_on:
-      - web_exam
+      - db_exam
