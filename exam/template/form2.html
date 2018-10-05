@@ -22,7 +22,7 @@
 
 
 {% if request.user.is_authenticated %}
-  {% if check != '1' %}
+  {% if check == '1' %}
 
 
 
@@ -503,14 +503,7 @@
  {% endif %}
 
 <!--Make sure the form has the autocomplete function switched off:-->
- 
-{% endblock %}
-
-
-
-
-
-</body>
+ </body>
 </html>  
 
 
@@ -707,4 +700,15 @@ autocomplete(document.getElementById("myInput7"), myData);
 autocomplete(document.getElementById("myInput8"), myData);
 autocomplete(document.getElementById("myInput9"), myData);
 autocomplete(document.getElementById("myInput10"), myData);
+autocomplete(document.getElementById("myInput11"), myData);
+autocomplete(document.getElementById("myInput12"), myData);
+autocomplete(document.getElementById("myInput13"), myData);
+autocomplete(document.getElementById("myInput14"), myData);
+autocomplete(document.getElementById("myInput15"), myData);
 </script>
+{% endblock %}
+
+
+
+
+

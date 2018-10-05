@@ -248,14 +248,67 @@ table .uk-table-hover{
 
 }
 
-@media screen and (max-width: 1080px) {
+@media screen and (max-width: 1380px) {
   .footer-flex {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     flex-direction: column;
   }
-
+  .uk-navbar-right,.mtt{
+    margin-top: -5px;
+  }
   
 }
+@media only screen and (max-width: 600px) {
+    .uk-navbar-left {
+        margin-top: 20px;
+    }
+    .uk-navbar-right,.mtt{
+    margin-top: 5px;
+    margin-bottom: -10px;
+  }
+}
+@media only screen and (max-width: 800px) {
+    .uk-navbar-left {
+        margin-top: 20px;
+    }
+    .uk-navbar-right,.mtt{
+    margin-top: 5px;
+    margin-bottom: -10px;
+  }
+}
+@media screen and (max-width: 1600px) {
 
+  .uk-navbar-right,.mtt{
+    margin-top: -5px;
+  }
+  
+}
+@media screen and (max-width: 360px) {
 
+  .font{
+    font-size: 20px;
+  }
+  .uk-button-primary{
+    font-size: 15px;
+  }
+  
+}
+.martop{
+  margin-top: 36px;
+}
+.mt{
+  margin-top: -30px;
+}
+.mtt{
+  margin-top: 10px;
+}
+.uk-navbar-right{
+  margin-right: 25px;
+}
+.uk-width{
+  margin-top: -5px;
+}
+.uk-link-reset{
+  font-size: 18px;
+}
