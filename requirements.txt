@@ -7,7 +7,7 @@ django-filter==2.0.0
 django-ordered-model==2.1.0
 django-social-auth==0.7.28
 django-tuauth==0.1.2
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 httplib2==0.11.3
 idna==2.7
 Markdown==2.6.11
